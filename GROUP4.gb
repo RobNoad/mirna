@@ -1,0 +1,1910 @@
+LOCUS       AB064595                3729 bp    DNA     linear   VRL 19-APR-2011
+DEFINITION  Torque teno virus 27 DNA, complete genome, isolate: CT23F.
+ACCESSION   AB064595
+VERSION     AB064595.1  GI:17826968
+KEYWORDS    .
+SOURCE      Torque teno virus 27
+  ORGANISM  Torque teno virus 27
+            Viruses; ssDNA viruses; Anelloviridae; Alphatorquevirus.
+REFERENCE   1
+  AUTHORS   Peng,Y.H., Nishizawa,T., Takahashi,M., Ishikawa,T., Yoshikawa,A.
+            and Okamoto,H.
+  TITLE     Analysis of the entire genomes of thirteen TT virus variants
+            classifiable into the fourth and fifth genetic groups, isolated
+            from viremic infants
+  JOURNAL   Arch. Virol. 147 (1), 21-41 (2002)
+  PUBMED    11855633
+REFERENCE   2  (bases 1 to 3729)
+  AUTHORS   Okamoto,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUL-2001) Contact:Hiroaki Okamoto Jichi Medical
+            School, Immunology Division and Division of Molecular Virology;
+            3311-1 Yakushiji, Minamikawachi-machi, Kawachi-gun, Tochigi
+            329-0498, Japan
+FEATURES             Location/Qualifiers
+     source          1..3729
+                     /organism="Torque teno virus 27"
+                     /mol_type="genomic DNA"
+                     /isolate="CT23F"
+                     /db_xref="taxon:687366"
+                     /country="China"
+                     /note="originally submitted as 'Torque teno virus';
+                     synonym: TT virus"
+     CDS             join(299..681,2507..3017)
+                     /note="unnamed protein product; ORF4"
+                     /codon_start=1
+                     /protein_id="BAB79307.1"
+                     /db_xref="GI:17826969"
+                     /translation="MPWRPPAHSVPGREGQFYAATFHAHAAFCGCGGFIEHLNSIHPR
+                     FLGAGGPPPPPPALRRALPAPEGPGGPPQHAPPNPPPEGDHQPPRRGGGAGGAGDGHA
+                     GDGDAAEEYGPEDLDLLFAAAAEDDMSFKAPSSRHQTRGPGRRAKKRLRFSPGSPRQP
+                     RLGGESRRSPSPRRTSTPKRKRGATPQAAPAAKTTPASPQTRTPSPVRRRTQTEEGSP
+                     HRPPPYIAPPPIVEDLLFPNTQKKKKFSKFDWETEAQLAACFDRPMRFFPSDLPTYPW
+                     LPKKPTTQTTFRVSFQLKAPQ"
+     CDS             join(299..681,2305..2764)
+                     /note="unnamed protein product; ORF3"
+                     /codon_start=1
+                     /protein_id="BAB79308.1"
+                     /db_xref="GI:17826970"
+                     /translation="MPWRPPAHSVPGREGQFYAATFHAHAAFCGCGGFIEHLNSIHPR
+                     FLGAGGPPPPPPALRRALPAPEGPGGPPQHAPPNPPPEGDHQPPRRGGGAGGAGDGHA
+                     GDGDAAEEYGPEDLDLLFAAAAEDDMLSTTRARSPPTRYPSPVRSLESYKSVTRQGSD
+                     RKQFFTSGTKDVDCLQKEVLKECRNTHQMMKIFRQVLQSAQLSTPDPRAWPESKEAPT
+                     LFSGLSKTAKTRRRVKKKPLSSKNKHTKKKKRSYSSSSPSSKDNTSESSNEDSESCSE
+                     TYSN"
+     CDS             299..685
+                     /note="unnamed protein product; ORF2"
+                     /codon_start=1
+                     /protein_id="BAB79309.1"
+                     /db_xref="GI:17826971"
+                     /translation="MPWRPPAHSVPGREGQFYAATFHAHAAFCGCGGFIEHLNSIHPR
+                     FLGAGGPPPPPPALRRALPAPEGPGGPPQHAPPNPPPEGDHQPPRRGGGAGGAGDGHA
+                     GDGDAAEEYGPEDLDLLFAAAAEDDM"
+     CDS             562..2799
+                     /note="unnamed protein product; ACG for ATG as start
+                     codon; ORF1"
+                     /codon_start=1
+                     /transl_except="(pos:562..564,aa:Met)"
+                     /protein_id="BAB79310.1"
+                     /db_xref="GI:17826972"
+                     /translation="MAWWWGRWRRRWPRRRWRRRRRVWPRRSRFAVRRRRRGRYVSKR
+                     RRFRRRRRRRGRPRYRGRRKKRQTLVIRQWQPDVVRFCKINGWLPLIVCGSGSTQNNF
+                     IVHSEDITPRGAPYGGNLTHITWCLEAIYQEFLMHRNRWTRSNHDLDLMRYVGVRFKA
+                     YRHPTTDYIISYSKTSPFQVTELSYLSCHPLLMLLSKHHIVVKSLQTKPRGKPYVKFF
+                     CKPPKLMLNKWYFTKDFAKVPILMMWATACEPRNPWLGEGTLSPCIGFYALKPSIYTS
+                     LSNLPAKVQMFATGTQSDSLTTSSTGFYKTVHPSSITTTSKEWEYTYTGLMEKFFKQA
+                     TNKPYNWENYGTPADYGSTYTTFSTHRSTRYETIKKEYQKVYPTLTTQTPTNFFLTQE
+                     FGFYSPYYLTPSKRDIDWHTPYTYTRYNPLADKGLGNMIWADWCSRDEAAYSPTQSKC
+                     MLKDLPLFILFYGYIDWVQKSIGSQTITRDMRLMVICPYTEPQLVDPQDKTKGFVLYG
+                     DTFANGNMPVLAPQIPISWFVRWYPNFAHQREVLERVVSCGPFMVRDQEKNSWDITLG
+                     YHFLFKWGGSPLPSQAIDDPSQKPTHALPEPGTLPRILQVSDPARLGPKTIFHQWDQR
+                     RGLFTKRSIKRMSEYSSDDENFSPGPSKRPALDTRPEGLAGEQRSAYAFLRALQDSQD
+                     SEESQEEAPLLEEQAHQKEKEELLLKQPQQQRQHQRVLKRGLRVLFGDVLKLRRGLHI
+                     DPLLT"
+ORIGIN      
+        1 attttgttca gcccgccaat ttctgttcaa acaggccaat cagcgtctac tacgtacact
+       61 tcctggggtg tgtcctgcca ctgtatataa accagagggg tgacgaatgg tagagttttt
+      121 cctggcccgt ccgcggcgag agcgcgagcg aagcgagcga tcgggcgtcc cgagggcggg
+      181 tgccggaggt gagtttacac accgcagtca aggggcaatt cgggcacggg tctggccggg
+      241 ctatgggcaa ggctcttaaa aaattccccg ttactgtgct ccgccaggat accaagtcat
+      301 gccgtggaga ccgccggcgc actcggtgcc tggtagagaa ggccagttct acgcggcgac
+      361 gtttcacgcg cacgctgctt tctgcggttg tgggggtttt attgagcatc ttaatagcat
+      421 tcatcctcgc tttctcgggg ctggggggcc accgccacct ccgcctgccc taaggagagc
+      481 cctgccagcc cccgaaggcc ccggaggccc tccgcagcac gccccgccca accctcctcc
+      541 ggagggtgac caccagccgc cacggcgtgg tggtggggcc ggtggcgccg gagatggcca
+      601 cgcaggagat ggagacgccg cagaagagta tggcccagaa gatctagatt tgctgttcgc
+      661 cgccgccgcc gaggacgata tgtgagtaag aggcgccgct tcaggcgcag acgcagacga
+      721 agggggcgac ccagatacag ggggcgacgc aaaaagagac agactcttgt tatcagacag
+      781 tggcaaccgg acgtggtccg gttctgcaag ataaatggat ggctacctct aattgtctgt
+      841 ggctcaggga gcacccagaa caattttata gtccactcag aggacataac tccaagagga
+      901 gccccctatg gaggcaacct cacacacata acatggtgcc tagaggccat ctaccaagag
+      961 tttttaatgc acagaaacag atggaccaga agcaaccatg acctagacct catgagatac
+     1021 gtaggagtga gattcaaggc ctacagacac cccacaacag actatataat ctcctacagc
+     1081 aaaacctcac cctttcaggt cacagaactc agctacctca gttgccaccc gctcttaatg
+     1141 cttctcagca aacaccacat agtggtaaaa agcctacaga ctaagcccag aggcaaaccc
+     1201 tatgttaaat tcttctgcaa gcctccaaaa ctcatgctaa ataagtggta ctttacaaaa
+     1261 gactttgcaa aagtaccaat actcatgatg tgggccacag cctgtgaacc cagaaaccca
+     1321 tggctcggag aaggcaccct ctcgccctgc ataggcttct atgcactaaa accatccata
+     1381 tatacctcac ttagcaactt accagcaaaa gtacaaatgt ttgctacagg tacacaatca
+     1441 gactctctaa caacatcctc aacaggattt tataaaacag tacaccctag tagtataact
+     1501 acaacatcaa aagaatggga atacacatac acaggcctaa tggaaaaatt ctttaaacaa
+     1561 gccacaaaca aaccttataa ctgggaaaac tacggcacac cagcggacta tggcagcaca
+     1621 tacacaacat tttcaacaca cagaagtaca agatatgaaa caattaaaaa agaataccaa
+     1681 aaagtatacc ccacactaac aacacaaaca ccaacaaact tctttttaac acaagaattt
+     1741 ggcttttaca gcccatacta cttaacacca tccaaaagag acatagactg gcacacacca
+     1801 tacacataca caagatacaa cccactagca gacaaaggcc taggcaacat gatatgggca
+     1861 gactggtgta gcagagatga ggccgcctac agcccaacac aaagcaaatg catgcttaaa
+     1921 gacctgccac tattcatact attctatggc tacatagact gggtacaaaa gagtataggg
+     1981 tctcaaacaa taaccagaga catgagactc atggttatat gtccatacac agagccacaa
+     2041 ctagtagacc cccaagataa aactaagggc tttgtactat atggagacac atttgccaac
+     2101 ggaaatatgc cagtacttgc accacagata cccatctcgt ggtttgtccg ttggtacccc
+     2161 aactttgcac accaaaggga agttttagaa agagtggttt cctgtggacc gttcatggtc
+     2221 agagaccagg aaaagaacag ttgggacatt acactaggct accacttcct attcaaatgg
+     2281 ggcggatccc ctctcccctc tcaggctatc gacgacccga gccagaagcc cacccacgcg
+     2341 ctacccgagc ccggtacgct ccctagaatc ttacaagtca gtgacccggc aaggctcgga
+     2401 ccgaaaacaa tttttcacca gtgggaccaa agacgtggac tgtttacaaa aagaagtatt
+     2461 aaaagaatgt cggaatactc atcagatgat gaaaattttt cgccaggtcc ttcaaagcgc
+     2521 ccagctctcg acaccagacc cgagggcctg gccggagagc aaagaagcgc ctacgctttt
+     2581 ctccgggctc tccaagacag ccaagactcg gaggagagtc aagaagaagc ccctctcctc
+     2641 gaagaacaag cacaccaaaa agaaaaagag gagctactcc tcaagcagcc ccagcagcaa
+     2701 agacaacacc agcgagtcct caaacgagga ctccgagtcc tgttcggaga cgtactcaaa
+     2761 ctgaggaggg gtctccacat agaccccctc cttacatagc ccctccacct atagtggagg
+     2821 acctgctttt tcctaacacc caaaaaaaaa aaaagttctc caagttcgac tgggagacag
+     2881 aggcgcagct agctgcctgc ttcgacaggc ctatgcgttt cttcccctca gacctcccaa
+     2941 catacccgtg gctaccaaaa aagcccacta cccaaactac ctttagagtc tcctttcaac
+     3001 taaaagcccc ccaataaaat ttcaaggccg tgggactttc acttgtcggt gtctgcttct
+     3061 taaggttacc aagcactccg agcgtaagcg aggagtgcga cccccccccc tgtggcaact
+     3121 tcctcggggt ccggcgctac gcgcttcgcg ctgcgccgga cgcctcggac cccccctcga
+     3181 cccgaatcgc ttgcgcgatt cggacctgcg gcctcggggg ggtcgggggc tttactaaac
+     3241 agactccgag ttgccattgg acactgaggg ggcgtacagc acgaaagtga gtggggccag
+     3301 acttcgccat agggccttta acttccgggt gcgtctgggg gccgccattt tagcttcggc
+     3361 cgccatttta ggccctcgcg ggcctacgta ggcgcgtttt tatgacgtca cggcagccat
+     3421 attggttgtg acgttactct cacgtgatgg gggcgtgctc taacccggaa gcatcctcga
+     3481 ccacgtgact gtgacgtcac ggccgccatt ttgtgctatc cgccattttg tgacttcctt
+     3541 ccgctttttt aaaaaaaaga ggaagtatga cgtagcggcg ggggggcggc gcgcttcgcg
+     3601 cgccgcccac tagggggcgc tgcgcgcccc cccccgcgca tgcgcgggtc ccccccccgg
+     3661 gggggctccg cccccccggc cccccccgtg cttaatccac cgcgcatgcg cagccacgcc
+     3721 cccgccgcc
+//
+LOCUS       AB064603                3727 bp    DNA     linear   VRL 19-APR-2011
+DEFINITION  Torque teno virus DNA, complete genome, isolate: JT41F.
+ACCESSION   AB064603
+VERSION     AB064603.1  GI:17827237
+KEYWORDS    .
+SOURCE      Torque teno virus (TTV)
+  ORGANISM  Torque teno virus
+            Viruses; ssDNA viruses; Anelloviridae; unclassified Anelloviridae.
+REFERENCE   1
+  AUTHORS   Peng,Y.H., Nishizawa,T., Takahashi,M., Ishikawa,T., Yoshikawa,A.
+            and Okamoto,H.
+  TITLE     Analysis of the entire genomes of thirteen TT virus variants
+            classifiable into the fourth and fifth genetic groups, isolated
+            from viremic infants
+  JOURNAL   Arch. Virol. 147 (1), 21-41 (2002)
+  PUBMED    11855633
+REFERENCE   2  (bases 1 to 3727)
+  AUTHORS   Okamoto,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUL-2001) Contact:Hiroaki Okamoto Jichi Medical
+            School, Immunology Division and Division of Molecular Virology;
+            3311-1 Yakushiji, Minamikawachi-machi, Kawachi-gun, Tochigi
+            329-0498, Japan
+FEATURES             Location/Qualifiers
+     source          1..3727
+                     /organism="Torque teno virus"
+                     /mol_type="genomic DNA"
+                     /isolate="JT41F"
+                     /db_xref="taxon:68887"
+                     /country="Japan"
+                     /note="synonym: TT virus"
+     gene            join(299..681,2483..2990)
+                     /gene="ORF4"
+     CDS             join(299..681,2483..2990)
+                     /gene="ORF4"
+                     /codon_start=1
+                     /product="ORF4"
+                     /protein_id="BAB79339.1"
+                     /db_xref="GI:17827238"
+                     /translation="MSWRPPLHSIQGREDQWYAGIFHTHFAFCGCGDPVGRINRIAHR
+                     FPNAGPPRPPPGLDQPNLGGPEGPGGAPRALPALPAPAEPEPAPRRGGGADGDSAAGA
+                     AAAADHGGYDEGDLEDLFAAAAEDDMAFIKKKKQARHKDARPPNPRKRKLHFTPSPPR
+                     VGPGEQLPGRRTSTPKRREPERSARGAAPAPETAPASPQARPQTPLGRRPPTPPRSPL
+                     GPPPILIQGPSIPDLLFPNTQKKPKFSNFDWATEYQIAKWPDRPLRHYPSDLPHYPWL
+                     PKKPPTQPTCRVSFKLKLDA"
+     gene            join(299..681,2284..2809)
+                     /gene="ORF3"
+     CDS             join(299..681,2284..2809)
+                     /gene="ORF3"
+                     /codon_start=1
+                     /product="ORF3"
+                     /protein_id="BAB79340.1"
+                     /db_xref="GI:17827239"
+                     /translation="MSWRPPLHSIQGREDQWYAGIFHTHFAFCGCGDPVGRINRIAHR
+                     FPNAGPPRPPPGLDQPNLGGPEGPGGAPRALPALPAPAEPEPAPRRGGGADGDSAAGA
+                     AAAADHGGYDEGDLEDLFAAAAEDDMQSTTPARSPPMSYPIPIDTLACYKSLTRQSSD
+                     RRQCSTNGTGDVGNLAKEVLKESKKTQRMMNMLQGLYQEKETSSTQRCQAPQPPKKKA
+                     TLYSKPSKSRARRAAPRTKNKHPKKKRTRKKRSWSSSSSRNSTSESSSEASNSSWETS
+                     SDSAAESTGTPSYPNSGSLYPRPAFP"
+     gene            299..685
+                     /gene="ORF2"
+     CDS             299..685
+                     /gene="ORF2"
+                     /codon_start=1
+                     /product="ORF2"
+                     /protein_id="BAB79341.1"
+                     /db_xref="GI:17827240"
+                     /translation="MSWRPPLHSIQGREDQWYAGIFHTHFAFCGCGDPVGRINRIAHR
+                     FPNAGPPRPPPGLDQPNLGGPEGPGGAPRALPALPAPAEPEPAPRRGGGADGDSAAGA
+                     AAAADHGGYDEGDLEDLFAAAAEDDM"
+     gene            562..2772
+                     /gene="ORF1"
+     CDS             562..2772
+                     /gene="ORF1"
+                     /note="ACG for ATG as start codon"
+                     /codon_start=1
+                     /transl_except="(pos:562..564,aa:Met)"
+                     /product="ORF1"
+                     /protein_id="BAB79342.1"
+                     /db_xref="GI:17827241"
+                     /translation="MAWWWGRWRQRRWGRRRRRPWRVRRRRPRRSFRRRRRGRYVSRR
+                     RRRRYYRRRLRRGRRRGRRKRHRPTLILRQWQPDVVKHCKITGWMPLIICGSGSTQMN
+                     FITHMDDTPPMGYTYGGNFVNVTFSLEAIYEQFLYHRNRWSRSNHDLDLARYQGTTLK
+                     LYRHATVDYILSYNRTGPFQISEMTYMSTHPAIMLLMKHRIVVPSLRTKPKGRRSIKI
+                     RIKPPKLMLNKWYFTKDICSMGLFQLMATGAELTNPWLRDTTKSPVIGFRVLKNSVYT
+                     NLSNLKDVSISGERKSILNKIHPETLTGSGNASKGWEYSYTKLMAPIYYSAVRNSTYN
+                     WQNYQTHCATTAIKFKEKQTSTLTLIKAEYLYHYPNNVTQVDFIDDPTLTHDFGIYSP
+                     YWITPTRISLDWDTPWTYVRYNPLSDKGIGNRIYAQWCSEKSSKLDTTKSKCILKDFP
+                     LWCMAYGYCDWVVKCTGVSSAWTDMRVAIICPYTEPALIGSDENVGFIPVSDTFCNGD
+                     MPFLAPYIPITWWIKWYPMITHQKEVLEAIVNCGPFVPRDQSSPAWEITMGYKMDWKW
+                     GGSPLPSQAIDDPCQKPTHELPDPDRHPRMLQVSDPTKLGPKTVFHKWDWRRGQLSKR
+                     SIKRVQEDSTDDEYVTGPLSRKRNKLDTKMPGPPTPEKESYTLLQALQESGQESSSQD
+                     EEQAPQKEENQKEALVEQLQLQKQHQRVLKRGLKLLLGDVLRLRRGVHWDPLLS"
+ORIGIN      
+        1 attttgtgca gcccgccaat ttctgttcaa acagaccaat cagctactac ttcgtgcact
+       61 tcctggggcg tgtcctgcca ctttatataa gcagaagcag tgacgaatgg tagagttttt
+      121 tctcgcccgt ccgcggcgag agcgcgagcg aagcgagcga tcgagcgacc cgtgggcggg
+      181 agccggaggt gagtttacac accgcagtca aggggcaatt cgggctcggg actggccggg
+      241 ctatgggcaa ggctcttaaa aagctccctc gctgtgttct tcgccaggac acaaaacaat
+      301 gtcgtggcga ccgccgttgc attctatcca aggcagagaa gatcaatggt atgcaggcat
+      361 ctttcatacg cattttgctt tttgcggttg tggtgaccct gttgggcgta ttaaccgcat
+      421 tgctcaccgc tttcctaacg ccggtccccc gagaccacct ccagggctag accagcccaa
+      481 cctcggaggg ccggaaggtc caggaggtgc ccctagagcc ctgccagccc tgccggcccc
+      541 ggcagagcca gagccggcac cacggcgtgg tggtggggcc gatggagaca gcgccgctgg
+      601 ggccgccgcc gccgcagacc atggagggta cgacgaagga gacctagaag atcttttcgc
+      661 cgccgccgcc gaggacgata tgtgagtagg cggaggcgcc gccgctacta caggcgcaga
+      721 ctaagacggg gcagacgcag agggcgacga aagagacaca gaccgaccct aatactgagg
+      781 cagtggcaac ctgacgttgt taaacactgt aagataacag gatggatgcc cctcattatc
+      841 tgtggctctg gcagcacaca gatgaacttt ataacccaca tggacgatac tcctcccatg
+      901 ggatacacct acgggggcaa ctttgtaaat gtgactttca gcttagaggc catctatgaa
+      961 cagttcctat atcacagaaa cagatggtcc agatctaacc atgacttaga cctagccagg
+     1021 taccaaggaa ccaccttaaa actctacaga cacgccacag tagactacat actttcctac
+     1081 aacaggacag gacccttcca gatcagtgag atgacataca tgagcactca cccagcaata
+     1141 atgctactaa tgaaacacag aatagttgtg cccagcctta gaacaaagcc taaaggcagg
+     1201 cgctccataa aaattagaat aaagcccccc aaacttatgc taaacaagtg gtactttacc
+     1261 aaagacatat gctccatggg cctcttccaa ctaatggcca ccggagcaga actcactaac
+     1321 ccctggctca gagacaccac aaaaagccca gtaataggct tcagagttct aaaaaacagt
+     1381 gtttacacca acttatctaa cctaaaagac gtatccatat caggagaaag aaaatccatc
+     1441 ttaaacaaaa ttcacccaga aactctcaca ggatcaggca atgcatctaa agggtgggaa
+     1501 tactcataca caaaactaat ggcgcccata tactattcag cagttagaaa cagcacatac
+     1561 aactggcaaa actaccaaac acactgcgca acaacagcta tcaaatttaa agaaaaacaa
+     1621 accagtactc taactcttat taaagcagag tacttatacc actacccaaa caatgtcaca
+     1681 caggtagact tcatagatga ccccacactc acacatgact ttggcatata cagcccatac
+     1741 tggataacac ctaccagaat aagcctagac tgggacacac catggacata tgtcagatac
+     1801 aacccactct cagacaaagg cataggcaac agaatctatg cacagtggtg ctcagaaaaa
+     1861 agcagcaaat tagacaccac aaagagcaaa tgcatactaa aagactttcc actatggtgc
+     1921 atggcctatg gctactgtga ctgggtagta aaatgtacag gagtgtccag tgcatggaca
+     1981 gacatgagag tagccatcat ctgcccgtac acagaaccgg cacttatagg gtcagatgaa
+     2041 aatgtaggct ttattccagt aagtgacacc ttttgcaacg gagacatgcc gtttcttgca
+     2101 ccatacatcc ctattacatg gtggatcaag tggtacccca tgattacaca ccaaaaggaa
+     2161 gttcttgagg caatagtaaa ctgtggaccg tttgtccccc gagaccaaag ttccccagct
+     2221 tgggaaatca ccatgggtta caaaatggat tggaaatggg gcggctctcc cctgccttca
+     2281 caggcaatcg acgacccctg ccagaagccc acccatgagc tacccgatcc cgatagacac
+     2341 cctcgcatgt tacaagtctc tgacccgaca aagctcggac cgaagacagt gttccacaaa
+     2401 tgggactgga gacgtgggca acttagcaaa agaagtatta aaagagtcca agaagactca
+     2461 acggatgatg aatatgttac agggccttta tcaagaaaaa gaaacaagct cgacacaaag
+     2521 atgccaggcc ccccaacccc cgaaaaagaa agctacactt tactccaagc cctccaagag
+     2581 tcgggccagg agagcagctc ccaggacgaa gaacaagcac cccaaaaaga agagaaccag
+     2641 aaagaagcgc tcgtggagca gctccagctc cagaaacagc accagcgagt cctcaagcga
+     2701 ggcctcaaac tcctcttggg agacgtcctc cgactccgcc gcggagtcca ctgggacccc
+     2761 ctcctatcct aattcagggt ccctctatcc cagacctgct tttccctaac actcaaaaaa
+     2821 aacccaaatt ttccaacttc gactgggcca ccgagtacca aatagccaag tggccagacc
+     2881 gccctttgag gcactacccc tcagacctcc ctcactaccc gtggctacca aaaaagccac
+     2941 ctacccagcc tacatgtaga gtaagtttca aattaaagct tgatgcctaa gattcaaggc
+     3001 cgtgggtgtt tcacttcatc ggtgtgtacc tctataagtc actaagcact ccgagcgtaa
+     3061 gcgaggagtg cgacccccct gcccggtagc aacttcctcg gggtccggcg ctacgccttc
+     3121 ggctgcgccg gacgcctcgg accccccctc gacccgaatc gctcgcgcga ttcggacctg
+     3181 cggcctcggg ggggtcggga gctttattaa acagactccg agtcgctctt ggattctgag
+     3241 ggggtgaaca gcaacgaaag tgagtggggc cagacttcgc cataaggcct ttaactttgg
+     3301 gtcgtctgtc agcggcttcc gggttcgcct gggggccgcc attttagctt cggccgccat
+     3361 tttagaccct cgcgggcctc cgtagtcgcg tcttagtgac gtcacggcag ccatcttggt
+     3421 cctgacgtca ctgtcacgtg gggagggaac acgtgaaccc ggaagtgtcc ctggtcacgt
+     3481 gacatgacgt cacggccgcc attttgtgct gtccgccatc ttgtcacttc cttccgcttt
+     3541 ttaaaaaaaa aaagaggaag taccccacag cggcgggggg gcggcgcgct tcgcgcgccg
+     3601 cccaccaggg ggcgctgcgc gccccccccc cgcgcatgcg cggggccccc cccccggggt
+     3661 ggctccgccc ccccggcccc cccccgtgct taatccaccg cgcatgcgca accacgcccc
+     3721 cgccgcc
+//
+LOCUS       AB064596                3726 bp    DNA     linear   VRL 19-APR-2011
+DEFINITION  Torque teno virus DNA, complete genome, isolate: CT25F.
+ACCESSION   AB064596
+VERSION     AB064596.1  GI:17827189
+KEYWORDS    .
+SOURCE      Torque teno virus (TTV)
+  ORGANISM  Torque teno virus
+            Viruses; ssDNA viruses; Anelloviridae; unclassified Anelloviridae.
+REFERENCE   1
+  AUTHORS   Peng,Y.H., Nishizawa,T., Takahashi,M., Ishikawa,T., Yoshikawa,A.
+            and Okamoto,H.
+  TITLE     Analysis of the entire genomes of thirteen TT virus variants
+            classifiable into the fourth and fifth genetic groups, isolated
+            from viremic infants
+  JOURNAL   Arch. Virol. 147 (1), 21-41 (2002)
+  PUBMED    11855633
+REFERENCE   2  (bases 1 to 3726)
+  AUTHORS   Okamoto,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUL-2001) Contact:Hiroaki Okamoto Jichi Medical
+            School, Immunology Division and Division of Molecular Virology;
+            3311-1 Yakushiji, Minamikawachi-machi, Kawachi-gun, Tochigi
+            329-0498, Japan
+FEATURES             Location/Qualifiers
+     source          1..3726
+                     /organism="Torque teno virus"
+                     /mol_type="genomic DNA"
+                     /isolate="CT25F"
+                     /db_xref="taxon:68887"
+                     /country="China"
+                     /note="synonym: TT virus"
+     gene            join(299..675,2477..2993)
+                     /gene="ORF4"
+     CDS             join(299..675,2477..2993)
+                     /gene="ORF4"
+                     /codon_start=1
+                     /product="ORF4"
+                     /protein_id="BAB79311.1"
+                     /db_xref="GI:17827190"
+                     /translation="MPWRPPAHNVQGRESQWFAACFHGHASFCGCGDFIGHINSLAPR
+                     FPNNQGPPHPPALNRPPAQGPESPGGSILPLPALPAPPDPPPRPGGGEDGGDAARGAA
+                     GAAEGAYGEEDLELLFAAAEEDDMSPKAPKARHTSRRTTRGAKRSLQFTPSPRRLSPV
+                     GRKRPRRNASPRRRTSTPRAKERGAPPAAPAAETPPASPQARPQTPPRRRPETPPGST
+                     HRPGPYIAPPPYIPDLLFPNTQKKKKFSNFDWATEYQLATAFDRPLRHYPLDLPHYPW
+                     LPKKPNTHSTYRVSFQLKAPQ"
+     gene            join(299..675,2275..2734)
+                     /gene="ORF3"
+     CDS             join(299..675,2275..2734)
+                     /gene="ORF3"
+                     /codon_start=1
+                     /product="ORF3"
+                     /protein_id="BAB79312.1"
+                     /db_xref="GI:17827191"
+                     /translation="MPWRPPAHNVQGRESQWFAACFHGHASFCGCGDFIGHINSLAPR
+                     FPNNQGPPHPPALNRPPAQGPESPGGSILPLPALPAPPDPPPRPGGGEDGGDAARGAA
+                     GAAEGAYGEEDLELLFAAAEEDDMQSTTPASREPTRFPSPVRCLESYKSATRRNSDRK
+                     PYSTSGTRGVDFLAKEVLKECQNTKELMTYFHQVAQSAQSSTHVPKDYQRSKEELTIY
+                     SKPSKTQPSRKKATKKKCLPSKKNKYSTSKRKRRSSSSSSSRNTTSESSSEASDSSSE
+                     TS"
+     gene            299..679
+                     /gene="ORF2"
+     CDS             299..679
+                     /gene="ORF2"
+                     /codon_start=1
+                     /product="ORF2"
+                     /protein_id="BAB79313.1"
+                     /db_xref="GI:17827192"
+                     /translation="MPWRPPAHNVQGRESQWFAACFHGHASFCGCGDFIGHINSLAPR
+                     FPNNQGPPHPPALNRPPAQGPESPGGSILPLPALPAPPDPPPRPGGGEDGGDAARGAA
+                     GAAEGAYGEEDLELLFAAAEEDDM"
+     gene            556..2775
+                     /gene="ORF1"
+     CDS             556..2775
+                     /gene="ORF1"
+                     /note="ACG for ATG as start codon"
+                     /codon_start=1
+                     /transl_except="(pos:556..558,aa:Met)"
+                     /product="ORF1"
+                     /protein_id="BAB79314.1"
+                     /db_xref="GI:17827193"
+                     /translation="MAWWWGRRWRRRPWGRWRRRRRVWRRRPRTAVRRRRGRRYVSRR
+                     RRYRRRLRRRGRRRYRGRRKKRQTLVLKQWQPDVNRLCRITGWLPLIVCGTGRAQDNF
+                     IVHSEDITPRGAAYGGNLTHITWCLEAIYQEFLMHRNRWSRSNHDLDLCRYQGVVFKA
+                     YRHPKVDYILAYTRTPPFQATELSYMSCHPLLMLTAKHRIVVKSQETKKGGKKYVKFR
+                     IKPPRLMLNKWYFTHDFCKVPLFSMWASACDLRNPWLREGALSPTVGFFALKPDFYPN
+                     LSILPNEVSQQFDFFLNSAHPPSIQSEKDVRWEYTYTNLMRPIYNQTPSLKASTYDWQ
+                     NYSNPNNYQACHQQFIAFKAQRFAKIKAEYQTVYPTLTTQTPQSEALTQEFGLYSPYY
+                     LTPTRISLDWHTVFHHIRYNPMADKGLGNMIWVDWCSRKEATYDPTRSKCMLKDLPLY
+                     MRFYGYCDWVTKSIGSETAWRDMRLMVVCPYTEPQLMKKNDKTWGYVIYGYNFANGNM
+                     PWLQPYIPISWFCRWFPCITHQREAMESVVATGPFMVRDQDRNSWDITIGYKFLWRWG
+                     GSPLPTQAIDDPCQQGTHPLPEPGTLPRILQVSDPTQLGPKTIFHLWDQRRGLFSKRS
+                     IERMSEYKGTDDLFSPGRPKRPKLDTRPEGLPEEQRGAYNLLQALEDSAQSEESDQEE
+                     MPPLEEEQVLHEQKKEALLQQLQQQKHHQRVLKRGLRLLLGDVLKLRRGLHIDPVLT"
+ORIGIN      
+        1 attttgtaca gcccgccaaa ttctcttcaa acaggccaat cagcgtttac tacgtacact
+       61 tcctggggtg tgtcctgcca ctctatataa gccggagggg tgacgaatgg tagagttttt
+      121 tctggcccgt ccgcggcgag agcgcgagcg aagcgagcga tcgagcgacc cgtgggcggg
+      181 agccgaaggt gagtttacac accgcagtca aggggcaatt cgggctcggg actggccggg
+      241 ctatgggcaa ggctcttaaa aaatttcccc gttctgttct taaacaggat ataaaatcat
+      301 gccgtggaga ccgccggctc ataacgtcca ggggcgagag agccagtggt tcgcggcttg
+      361 ttttcacggc cacgcttcgt tttgcggctg cggtgacttt attgggcata ttaacagcct
+      421 tgctcctcgc tttcctaaca accaaggacc cccgcatcca cctgccttaa acaggccacc
+      481 tgcacagggc ccagaaagcc ccgggggttc catactaccc ctgccagccc taccggcacc
+      541 acctgatccg ccaccacggc ctggtggtgg ggaagacggt ggcgacgccg cccgtggggc
+      601 cgctggcgcc gccgaaggcg cgtatggaga agaagaccta gaactgctgt tcgccgccgc
+      661 cgaggaagac gatatgtgag tagaaggcgc cgctacaggc gcagactcag acgaaggggc
+      721 agacggagat acagggggcg acgaaagaag agacagaccc tagtactcaa acaatggcaa
+      781 cccgacgtta acagactgtg cagaatcaca ggatggctac ctcttatagt ttgtggcacc
+      841 ggcagggccc aggacaactt tatagtacac tcagaggaca taaccccccg aggagccgcc
+      901 tacgggggca acctcacaca cataacatgg tgcttagaag ctatatacca agaattcctc
+      961 atgcacagaa acagatggtc cagaagtaac catgacctgg acctctgcag ataccaagga
+     1021 gtagttttta aggcctatag acaccccaaa gttgactaca tactagcata cacaagaaca
+     1081 cctccatttc aagcaacaga acttagctac atgtcctgcc atccactact catgctgaca
+     1141 gcaaaacaca ggatagtagt aaagagccaa gagaccaaaa aagggggcaa aaaatatgta
+     1201 aaatttagaa taaagccccc cagactaatg ttaaacaagt ggtacttcac tcatgacttt
+     1261 tgtaaagtcc cactattcag catgtgggcc tcagcctgtg atctaagaaa tccctggcta
+     1321 agagagggag ccctaagccc cacagtaggc ttttttgcct taaagcctga cttctaccct
+     1381 aatttaagca ttttaccaaa tgaagtcagt caacaattcg acttcttttt aaactctgct
+     1441 cacccaccaa gcatacaatc agaaaaagat gttagatggg aatatacata cacaaactta
+     1501 atgaggccta tatacaacca gaccccatca ctaaaggcct ccacatatga ctggcaaaac
+     1561 tatagcaatc caaacaacta tcaagcatgc caccaacaat tcatagcatt taaagcacaa
+     1621 agatttgcca aaattaaagc agaatatcaa acagtatatc ctacactaac aacacagaca
+     1681 ccccaatcag aagcactaac acaagaattt ggactatact ctccatacta tttaacacca
+     1741 acaagaatca gcctagactg gcacacagta ttccaccaca tcagatacaa cccgatggca
+     1801 gacaaaggcc taggaaacat gatttgggtc gactggtgtt ccagaaaaga agccacctac
+     1861 gaccccacaa gatccaagtg catgctaaaa gacctaccac tatacatgcg cttctatggc
+     1921 tactgtgact gggtaactaa atcaataggc tcagaaacag cctggagaga catgagatta
+     1981 atggtggtct gcccttatac agaaccccaa ctaatgaaaa aaaatgacaa aacctggggc
+     2041 tatgtaatct atggctacaa ctttgcaaac ggaaacatgc cgtggttaca gccatatatc
+     2101 ccaatctcgt ggttttgccg ttggttccct tgcatcactc accaacgtga agcaatggag
+     2161 tcagttgtgg ccacaggacc gttcatggtc agagaccaag accgcaacag ttgggacata
+     2221 actataggct acaaattctt atggagatgg gggggctctc ctctgcccac tcaggcaatc
+     2281 gacgacccct gccagcaggg aacccacccg cttcccgagc ccggtacgtt gcctagaatc
+     2341 ttacaagtca gcgacccgac gcaactcgga ccgaaaacca tattccacct ctgggaccag
+     2401 aggcgtggac tttttagcaa aagaagtatt gaaagaatgt cagaatacaa aggaactgat
+     2461 gacttatttt caccaggtcg cccaaagcgc ccaaagctcg acacacgtcc cgaaggacta
+     2521 ccagaggagc aaagaggagc ttacaattta ctccaagccc tcgaagactc agcccagtcg
+     2581 gaagaaagcg accaagaaga aatgcctccc ctcgaagaag aacaagtact ccacgagcaa
+     2641 aagaaagagg cgctcctcca gcagctccag cagcagaaac accaccagcg agtcctcaag
+     2701 cgaggcctca gactcctcct cggagacgtc ctgaaactcc gccggggtct acacatagac
+     2761 ccggtcctta catagcaccc cctccataca tccctgacct tctttttccc aacacccaaa
+     2821 aaaaaaaaaa attttccaac ttcgattggg ctacagaata ccagcttgct accgctttcg
+     2881 accgccctct ccgccactac cccttagacc tcccgcacta cccgtggcta ccaaaaaagc
+     2941 ccaataccca ctctacctat agagtgtcct ttcaactaaa agccccccaa taaaatgtca
+     3001 aggccgtggg agtttcactg ctcggtgtct gcttcttaag gtcactaagc actccgagcg
+     3061 tcagcgaggg gtgcgaccct cctgccctgt agcaacttcc tcggggtccg gcgctacgcc
+     3121 ttcggctgcg ccggacgcct cggacccccc ctcgacccga atcgctcgcg cgattcggac
+     3181 ctgcggcctc gggggggtcg ggagctttat taaacagact ccgagtctgt cttggacact
+     3241 gagggggtgt acagcaacga aagtgagtgg ggccagactt cgccataagg cctttatctt
+     3301 ctcgccgttt gtcagtggct tccgggttcg tatggaggtc gccattttgg cttcgacctc
+     3361 cattttcggc ccttgcgggc acccgtaggc gcattatagt gacgtcacgg cagccatctt
+     3421 gactgtgacg tcaaagtcac gtggtgacgg ccattttaac ccggaagtgg ctgttgtcac
+     3481 gtgacttgac gtcacggccg ccattttgtg ctgtccgcca ttttgtgact tccttccgct
+     3541 ttttcaaaaa aaagaggaag tatgacgtag cggcgggggg gcggcgcgct tcgcgcgccg
+     3601 cccaccaggg ggcgctgcgc gccccccccc cgcgcatgcg cggggccccc ccccgggggg
+     3661 gctccgcccc cccggccccc ccccgtgtta tgtccaccgc gcatgcgcgg ccacgccccc
+     3721 gccgcc
+//
+LOCUS       AB064600                3688 bp    DNA     linear   VRL 19-APR-2011
+DEFINITION  Torque teno virus DNA, complete genome, isolate: JT05F.
+ACCESSION   AB064600
+VERSION     AB064600.1  GI:17827217
+KEYWORDS    .
+SOURCE      Torque teno virus (TTV)
+  ORGANISM  Torque teno virus
+            Viruses; ssDNA viruses; Anelloviridae; unclassified Anelloviridae.
+REFERENCE   1
+  AUTHORS   Peng,Y.H., Nishizawa,T., Takahashi,M., Ishikawa,T., Yoshikawa,A.
+            and Okamoto,H.
+  TITLE     Analysis of the entire genomes of thirteen TT virus variants
+            classifiable into the fourth and fifth genetic groups, isolated
+            from viremic infants
+  JOURNAL   Arch. Virol. 147 (1), 21-41 (2002)
+  PUBMED    11855633
+REFERENCE   2  (bases 1 to 3688)
+  AUTHORS   Okamoto,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUL-2001) Contact:Hiroaki Okamoto Jichi Medical
+            School, Immunology Division and Division of Molecular Virology;
+            3311-1 Yakushiji, Minamikawachi-machi, Kawachi-gun, Tochigi
+            329-0498, Japan
+FEATURES             Location/Qualifiers
+     source          1..3688
+                     /organism="Torque teno virus"
+                     /mol_type="genomic DNA"
+                     /isolate="JT05F"
+                     /db_xref="taxon:68887"
+                     /country="Japan"
+                     /note="synonym: TT virus"
+     gene            join(299..648,2471..2969)
+                     /gene="ORF4"
+     CDS             join(299..648,2471..2969)
+                     /gene="ORF4"
+                     /codon_start=1
+                     /product="ORF4"
+                     /protein_id="BAB79327.1"
+                     /db_xref="GI:17827218"
+                     /translation="MSWRPPSQNLLQREEAWYSAFLSSHSTFCGCTDPLLHITLIAGR
+                     LTNPVPVTRQPETPPNGLRGLPALPAPPEPPAPPPRPGDGTGEEDGAHGEGEGGRYAE
+                     EDLEELFAAAAEDDMRRIQKTPIRHSSPRAARKPRRRKLSFTQSTPKRARDKQLGRGA
+                     ATKPRDPRKTTPPAPAAATTAATPRKGNQAPPRRCPPTPKRSPLGPGPYIAPPEPIPD
+                     LLFPSTKKKKKFSKLDWENEAQIAGWLDRPMRLYPGDPPFYPWLPRKPPTQPTCRVSF
+                     KIKLDD"
+     gene            join(299..648,2269..2794)
+                     /gene="ORF3"
+     CDS             join(299..648,2269..2794)
+                     /gene="ORF3"
+                     /codon_start=1
+                     /product="ORF3"
+                     /protein_id="BAB79328.1"
+                     /db_xref="GI:17827219"
+                     /translation="MSWRPPSQNLLQREEAWYSAFLSSHSTFCGCTDPLLHITLIAGR
+                     LTNPVPVTRQPETPPNGLRGLPALPAPPEPPAPPPRPGDGTGEEDGAHGEGEGGRYAE
+                     EDLEELFAAAAEDDILSTTPTKNPPTKYPTPISTLQDYKLQTRKSSDRRQSSTHGTSD
+                     VASLAQQVLRECQNTNRLMTFFQQASHPKDPDSTLQSKGSSKAKKKKAIVYSEHSKKS
+                     KRQAARKRSSHKTKRSKKNYSSSSSSSDNSSDSSQRESSTSSEMSSDSEKESTGTRSL
+                     HSTSRTYPRPFVPQY"
+     gene            299..652
+                     /gene="ORF2"
+     CDS             299..652
+                     /gene="ORF2"
+                     /codon_start=1
+                     /product="ORF2"
+                     /protein_id="BAB79329.1"
+                     /db_xref="GI:17827220"
+                     /translation="MSWRPPSQNLLQREEAWYSAFLSSHSTFCGCTDPLLHITLIAGR
+                     LTNPVPVTRQPETPPNGLRGLPALPAPPEPPAPPPRPGDGTGEEDGAHGEGEGGRYAE
+                     EDLEELFAAAAEDDM"
+     gene            535..2751
+                     /gene="ORF1"
+     CDS             535..2751
+                     /gene="ORF1"
+                     /note="ACG for ATG as start codon"
+                     /codon_start=1
+                     /transl_except="(pos:535..537,aa:Met)"
+                     /product="ORF1"
+                     /protein_id="BAB79330.1"
+                     /db_xref="GI:17827221"
+                     /translation="MAWGWYRRRRWRPWRRRRWAIRRRRPRRTVRRRGRRRYVSRWPR
+                     RRYRRRRRRTRRRGGRKRRHRQTLILRQWQPDVMKKCFITGWMPLIICGTGNTQFNFI
+                     THEDDVPPKGASYGGNLTNLTFTLEGLYDEHLLHRNRWSRSNFDLDLSRYLYTIIKLY
+                     RHESVDYIVTYNRTGPFEISPLSYMNTHPMLMLLNKHHVVVPSPKTKPKGKRAIKIKI
+                     KPPKLMLNKWYFARDTCRIGLFQLYATGANLTNPWLRSGTNSPVVGFYVIKNSIYQDA
+                     FDNLADTEHTNQRKNVFENKLYPTTTTNKDNWQYTYTSLMKNIYFKTKQEAENQTMSS
+                     TYNFDTYKTNYDKVRTKWIKIAEDGYKLVSKEYKEIYISTATYPPQWNSRNYLSHDYG
+                     IYSPYFLTPQRYSPQWHTAWTYVRYNPLTDKGIGNRIFVQWCSEKNSSYNSTKSKCML
+                     QDMPLFMLTYGYLDYVLKCAGSKSAWTDMRVCIRSPYTEPQLTGNTDDISFVIISEAF
+                     MNGDMPYLAPHIPVSLWFKWYPMILHQKAALETIVSCGPFMPRDQEANSWDITAGYKA
+                     VFKWGGSPLPPQPIDDPYQKPTHEIPDPDKHPPRLQIADPKILGPSTVFHTWDIRRGL
+                     FSTASLKRVSEYQPPDDLFSTGVASKRPRFDTPVQGQLESQEEESYRLLRALQKEQET
+                     SSSEEEQPQNQEIQEKLLLQLQQQRQQQRLLAKGIKHLLGDVLRLRKGVHWDPVLT"
+ORIGIN      
+        1 attttatgca gcccgccaat ttctctttca aacagaccaa tcacctacta cttcgtacac
+       61 ttcctggggc gtgtctaccc agcaaatata aaccggaggg gtgacgaatg gtagagtttt
+      121 ttctgcccgt ccgcggcgag gacgcgagcg cagcgagcgg ccgagcgtcc cgagggcggg
+      181 tgccggaggt gagtttacac accgcagtca aggggcaatt cgggctcggg actggccggg
+      241 ctatgggcaa ggctcttaaa aaattccccc gctctgttct ccgccaggac attaaaacat
+      301 gtcgtggaga ccgccgagcc aaaatttact gcaaagagaa gaggcctggt actcagcttt
+      361 tcttagctcg cattctacat tttgcggttg tactgaccct ctgctgcata ttactctcat
+      421 tgctggccgc cttactaacc ccgtacccgt cacccgccaa ccggagaccc ctcctaacgg
+      481 cctcaggggg ctgccggcac tgccagcacc ccctgaacca ccagcaccgc caccacggcc
+      541 tggggatggt accggagaag aagatggcgc ccatggagaa ggagaaggtg ggcgatacgc
+      601 agaagaagac ctagaagaac tgttcgccgc cgcggcagaa gacgatatgt gagtagatgg
+      661 ccgcgccgcc gatacaggcg cagacgcaga cgaaccagac gtaggggggg acgcaaaagg
+      721 agacacagac agactcttat actcagacag tggcaaccag atgttatgaa aaaatgtttt
+      781 attactggct ggatgcccct cattatatgt ggcactggga acactcaatt taactttata
+      841 acccatgaag acgatgtgcc accaaaagga gcctcctatg gaggcaacct cactaacctc
+      901 accttcactc tagaaggact gtatgacgaa cacctactcc acagaaacag gtggtccaga
+      961 tcaaactttg atctagacct cagcagatac ctctacacta taataaagct atacagacac
+     1021 gagtctgtag actacatagt cacctacaac agaacaggcc cctttgaaat aagcccactc
+     1081 agctacatga acacacaccc tatgctaatg ctcctaaaca agcaccacgt agtggtgcca
+     1141 agcccaaaaa caaagcccaa aggcaagagg gccattaaaa ttaaaataaa gccacctaaa
+     1201 ctaatgctaa acaaatggta ctttgcaaga gacacgtgta gaataggcct ctttcagctc
+     1261 tatgccacag gggctaacct aacaaacccc tggctcaggt caggcacaaa cagccctgta
+     1321 gtgggattct atgtaattaa aaactccata tatcaagacg cctttgataa cctggcagac
+     1381 acagaacata caaaccaaag aaaaaatgta tttgaaaaca aactatatcc cactacaaca
+     1441 actaacaaag acaactggca atacacatac acatccctca tgaaaaacat atactttaaa
+     1501 acaaaacaag aagcagaaaa ccaaacaatg agtagcacat acaactttga cacatacaaa
+     1561 acaaactatg acaaagtaag aactaaatgg ataaaaatag ctgaagatgg ctataaacta
+     1621 gtatcaaaag aatacaaaga aatatacatc agtacagcca cataccctcc acaatggaat
+     1681 tcaagaaact accttagcca tgactatggc atttatagtc cttacttttt aacaccccaa
+     1741 agatacagcc cccaatggca cacagcatgg acatatgtca gatacaaccc actaacagac
+     1801 aaaggcatag gcaacagaat atttgttcag tggtgctcag aaaaaaacag ctcatacaac
+     1861 agcacaaaaa gcaagtgcat gctacaagac atgccccttt ttatgctaac ctatgggtac
+     1921 ctagactatg tactaaaatg cgcaggctct aaatcagcct ggacagacat gagagtctgt
+     1981 atcagaagcc catacacaga accacagctt acaggcaaca cagatgatat tagttttgtt
+     2041 ataatatcag aggccttcat gaacggggac atgccctacc tagctccaca catacccgtt
+     2101 agtctgtggt ttaagtggta ccccatgata ttacaccaga aggcagcttt agaaaccata
+     2161 gtttcctgtg gaccgtttat gcccagagac caggaagcca actcttggga cataaccgca
+     2221 ggttacaaag cagtttttaa gtggggtggg tcccctctgc ctccacagcc tatcgacgac
+     2281 ccctaccaaa aacccaccca cgaaataccc gaccccgata agcaccctcc aagactacaa
+     2341 attgcagacc cgaaaatcct cggaccgtcg acagtcttcc acacatggga catcagacgt
+     2401 ggcctcttta gcacagcaag tcttaagaga gtgtcagaat accaaccgcc tgatgacctt
+     2461 ttttcaacag gcgtcgcatc caaaagaccc cgattcgaca ctccagtcca agggcagctc
+     2521 gaaagccaag aagaagaaag ctatcgttta ctcagagcac tccaaaaaga gcaagagaca
+     2581 agcagctcgg aagaggagca gccacaaaac caagagatcc aagaaaaact actcctccag
+     2641 ctccagcagc agcgacaaca gcagcgactc ctcgcaaagg gaatcaagca cctcctcgga
+     2701 gatgtcctcc gactccgaaa aggagtccac tgggacccgg tccttacata gcacctccag
+     2761 aacctatccc agaccttttg ttccccagta ctaaaaaaaa aaagaaattt tcaaaattag
+     2821 actgggagaa cgaggctcaa atagcagggt ggttagacag gcctatgagg ctgtatcctg
+     2881 gggacccccc cttctaccct tggctacccc gaaagccacc tacccagcct acatgtaggg
+     2941 taagcttcaa aataaagcta gatgattaac ttgcaaggcc gtgggagttt cacttgtcgg
+     3001 tgtctacctc taaaggtcac taagcactgc gagcgcaagc gagcagtgcg accctcctgc
+     3061 ccggtagcaa cttcctcggg gtccggcgct acgcgcttcg cgctgcgccg gacgcctcgg
+     3121 acccccgctc gtgctgacgc gctcgcgcgc gtcagaccac ttcgggctcg cgggggtcgg
+     3181 ggggctttac taacagactc cgagtcgctc ttggactctg agggggcata cagcaacgaa
+     3241 agtgagtggg gccagacttc gccatagggc ctttaacttc cgggtccgta tgggggccgc
+     3301 cattttagct tcggccgcca ttttaggccc tcgcgggcct ccgtaggcgc gttttaatga
+     3361 cgtcacggca gccattttga ctgtgacgtc aaagtcacgt ggggagggcg gcgtgtaacc
+     3421 cggaagtcat cctcgtcacg tgacctgacg tcacggccgc cattctgtgc tgtccgccat
+     3481 cttgtgactt ccttccgctt tttcaaaaaa aaagaggaag tatgacgtgg cggcgggggg
+     3541 gcggcgcgct tcgcgcgccg cccactaggg ggcgttgcgc gccccccccc cgcgcatgcg
+     3601 cggggccccc cccccggggg ggctccgccc ccccggcccc ccccccgtcc ttaatccacc
+     3661 gcgcatgcgc ggccacgccc ccgccgcc
+//
+LOCUS       AB064602                3676 bp    DNA     linear   VRL 19-APR-2011
+DEFINITION  Torque teno virus DNA, complete genome, isolate: JT19F.
+ACCESSION   AB064602
+VERSION     AB064602.1  GI:17827230
+KEYWORDS    .
+SOURCE      Torque teno virus (TTV)
+  ORGANISM  Torque teno virus
+            Viruses; ssDNA viruses; Anelloviridae; unclassified Anelloviridae.
+REFERENCE   1
+  AUTHORS   Peng,Y.H., Nishizawa,T., Takahashi,M., Ishikawa,T., Yoshikawa,A.
+            and Okamoto,H.
+  TITLE     Analysis of the entire genomes of thirteen TT virus variants
+            classifiable into the fourth and fifth genetic groups, isolated
+            from viremic infants
+  JOURNAL   Arch. Virol. 147 (1), 21-41 (2002)
+  PUBMED    11855633
+REFERENCE   2  (bases 1 to 3676)
+  AUTHORS   Okamoto,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUL-2001) Contact:Hiroaki Okamoto Jichi Medical
+            School, Immunology Division and Division of Molecular Virology;
+            3311-1 Yakushiji, Minamikawachi-machi, Kawachi-gun, Tochigi
+            329-0498, Japan
+FEATURES             Location/Qualifiers
+     source          1..3676
+                     /organism="Torque teno virus"
+                     /mol_type="genomic DNA"
+                     /isolate="JT19F"
+                     /db_xref="taxon:68887"
+                     /country="Japan"
+                     /note="synonym: TT virus"
+     gene            join(300..640,2460..2964)
+                     /gene="ORF4"
+     CDS             join(300..640,2460..2964)
+                     /gene="ORF4"
+                     /codon_start=1
+                     /product="ORF4"
+                     /protein_id="BAB79335.1"
+                     /db_xref="GI:17827231"
+                     /translation="MPWHPPGYNVQQREELWVQTVTTSHATFCGCGDPSSHLHRILSR
+                     LNNSSRRPPETPNPIRALPALPAPQEPEQPPSRPGTGTEEGHGAEGGDRGGAYAEEDL
+                     EDLFAAAEEDDMRRVKKTPIGNPVPRPTRKPRRRRLSFTQTTPGRARNEQFGGRTSTP
+                     RKNTPKRKAPQAAAAPQAAAATPQKRNQTPPRGRPPTQTGSPLGPRPIVLPPEPIPDL
+                     LFPNTKKKKKFSPLDWENEAQIAGWLDRPMRLYPGDNPFYPWLPKKPPTHPTCRVTFK
+                     IKLDD"
+     gene            join(300..640,2258..2789)
+                     /gene="ORF3"
+     CDS             join(300..640,2258..2789)
+                     /gene="ORF3"
+                     /codon_start=1
+                     /product="ORF3"
+                     /protein_id="BAB79336.1"
+                     /db_xref="GI:17827232"
+                     /translation="MPWHPPGYNVQQREELWVQTVTTSHATFCGCGDPSSHLHRILSR
+                     LNNSSRRPPETPNPIRALPALPAPQEPEQPPSRPGTGTEEGHGAEGGDRGGAYAEEDL
+                     EDLFAAAEEDDIPSTTHAKSPPTTFPTPIDTPQEYKSRTRQDSDRRRSSTHGTSDVDT
+                     LTQKLLKESQITQNLMTIFQQASCQKDPDWKPSTTANTKAKKKTPIFYSNNSRKSKKR
+                     AVRRENKHPKKKHSKKKSSSSSCSSTSSSSNSSEKESDTSSGTSSDSDGESTGTQAYS
+                     TASRAYSRLAFPKY"
+     gene            300..644
+                     /gene="ORF2"
+     CDS             300..644
+                     /gene="ORF2"
+                     /codon_start=1
+                     /product="ORF2"
+                     /protein_id="BAB79337.1"
+                     /db_xref="GI:17827233"
+                     /translation="MPWHPPGYNVQQREELWVQTVTTSHATFCGCGDPSSHLHRILSR
+                     LNNSSRRPPETPNPIRALPALPAPQEPEQPPSRPGTGTEEGHGAEGGDRGGAYAEEDL
+                     EDLFAAAEEDDM"
+     gene            527..2743
+                     /gene="ORF1"
+     CDS             527..2743
+                     /gene="ORF1"
+                     /note="ACG for ATG as start codon"
+                     /codon_start=1
+                     /transl_except="(pos:527..529,aa:Met)"
+                     /product="ORF1"
+                     /protein_id="BAB79338.1"
+                     /db_xref="GI:17827234"
+                     /translation="MAWYRYRRRPWRRRRRPRWGLRRRRFRRSFRGRGRRRYVSRWSR
+                     RRYRRRRRRGRRRRGRRRRKRQTLIPRQWQPDVTKKCFITGWMPLIICGTGHTQFNFI
+                     THEEDIPGAGASYGGNLTNITITLGGLYEQYMLHRNHWSRSNYDLELARYLGFTLKCY
+                     RHATVDYILTYSRTTPFETNELSHMLTHPLLMLLNKHHRVIPSLKTRPKGKRSVRIHI
+                     KPPKLMINKWYFAKDLCNIGPCQIYATGLELSNPWLRSGTNSPVIGFWVLKNHLYDGN
+                     LSNIASGEQLTARQTLFTTKLLPSNNTKDEWQYAYTPLMKTFYTQAANTAAHNITDKT
+                     YNWKNYKTHYDKVQQTWTTKAQFNYDLVKEEYKTVYPTTATFPPEWSNRQYLEHDYGL
+                     FSPYFLTPNRYSTEWHMPITYVRYNPLADKGIGNRIYMQWCSESSSSFEPTKSKCMLQ
+                     DMPLYMLTYGYLDYVVKCTGVKSAWTDMRVAIRSPYTFPQLIGSTDKVGFIPLGEKFM
+                     SGDTDPVKNFIPLKYWYRWYPFAANQKSVLETIVSCGPFMPRDQEAGSWDITVGYKAT
+                     FKRGGSPLPPQPIDDPCQKPTHDLPDPDRHPPRIQISDPARLGPETLFHSWDIRRGYI
+                     NTKAIKRISDYTESNDYFSTGVVSKRPRLETQYHGQHESQEEDAYLLLKQLQEEQETS
+                     SSEGEQAPQEKTLQKEKLLKQLQLHKQQQQLLRKGIRHLLGDVLRLRRGVHWDPGL"
+ORIGIN      
+        1 attttgtgca gcccgccaat ttctcattta aacaggccaa tcagctacta ctacgtacac
+       61 ttcctggggt gtgtcctgcc actctatata agcagaagcg gtgacgaatg gtagagtttt
+      121 ttctggcccg tccgcggcga gagcgcgagc gaagcgagcg atcgagcgtc ccgtgggcgg
+      181 gtgccgtagg tgagtttaca caccgcagtc aaggggcaat tcgggctcgg gactggccgg
+      241 gctatgggca agactcttaa aaaattcccc cgctctgttg tccggcagga tacaaaatca
+      301 tgccgtggca tccaccgggc tacaacgttc aacagagaga agagctctgg gtacagacag
+      361 ttactacttc acatgctact ttttgcggct gtggtgaccc tagtagccat cttcaccgca
+      421 ttcttagccg ccttaataac agcagccggc ggccccccga aaccccaaac cccattcgtg
+      481 ccctaccggc cctaccggca ccccaagaac ctgaacagcc gccatcacgg cctggtaccg
+      541 gtacagaaga aggccatggc gccgaaggag gcgaccgagg tggggcctac gcagaagaag
+      601 atttagaaga tcttttcgcg gccgcggaag aagacgatat gtgagtagat ggtcgcgccg
+      661 ccgatacagg cgcagacgga gaagggggcg acgtagacgg ggacgcagac gaagaaagag
+      721 acagactctt ataccgagac agtggcagcc agatgttact aaaaagtgct tcattactgg
+      781 ctggatgccc ttaataatct gtgggactgg acacacacaa tttaacttta taacccacga
+      841 agaggatatc cccggtgcag gagcctccta tggaggaaac cttacaaaca ttaccattac
+      901 tctgggaggg ctatatgaac aatatatgct tcacagaaac cactggtcca gaagcaacta
+      961 tgacctagag ctggccagat acctaggctt caccctaaaa tgctacagac atgcaacagt
+     1021 agactatata cttacataca gcagaacaac accctttgag accaatgaac tgagccacat
+     1081 gctaactcac cccttactaa tgctactaaa caaacatcac agagtaatac ccagcttaaa
+     1141 aacaaggcca aaaggaaaaa ggtcagttag aatccacatt aaacccccaa aactaatgat
+     1201 aaacaaatgg tactttgcaa aagacctctg taacatagga ccctgtcaaa tatatgccac
+     1261 aggcctagaa ctctcaaacc cctggctaag atcaggcaca aacagccctg taataggctt
+     1321 ttgggtactt aaaaatcacc tatatgatgg caacctctca aacatagcct caggtgaaca
+     1381 attaacagcc agacaaactc tatttacaac taaattactc ccaagtaata acaccaaaga
+     1441 cgaatggcaa tacgcctata ccccactaat gaaaacattc tacacacaag cagccaacac
+     1501 agcagcacat aacataacag acaaaacata caactggaaa aactacaaaa ctcactatga
+     1561 caaagtacaa caaacatgga caacaaaagc acaatttaat tatgacttag ttaaagaaga
+     1621 atacaaaacg gtatatccaa ccacagctac attcccacca gagtggtcaa acagacaata
+     1681 tctagaacat gactatggct tattcagccc ttattttcta acaccaaaca gatacagcac
+     1741 agagtggcac atgccaatta cctatgttag atacaaccca ctagcagaca aaggcatagg
+     1801 caacagaata tacatgcagt ggtgctcaga aagcagcagc agctttgagc ccaccaaaag
+     1861 caagtgcatg ctacaagaca tgccactata catgctcaca tatggatacc tagactatgt
+     1921 tgttaaatgc acaggtgtta aatcagcctg gacagacatg agagtggcca ttagaagccc
+     1981 ctacaccttt cctcaactaa taggcagcac agataaagtg ggcttcatcc ccctaggtga
+     2041 aaaattcatg agcggagaca cagaccccgt taaaaacttt ataccgttaa agtattggta
+     2101 cagatggtat ccgtttgcgg ctaaccaaaa gtcagtttta gaaaccatag tttcctgtgg
+     2161 ccccttcatg cccagagatc aggaagcagg ctcttgggac ataactgtag gttacaaagc
+     2221 aacctttaaa cgggggggct cccctctacc tccacagccc atcgacgacc catgccaaaa
+     2281 gcccacccac gaccttcccg accccgatag acacccccca agaatacaaa tctcggaccc
+     2341 ggcaagactc ggaccggaga cgctcttcca ctcatgggac atcagacgtg gatacattaa
+     2401 cacaaaagct attaaaagaa tctcagatta cacagaatct aatgactatt tttcaacagg
+     2461 cgtcgtgtca aaaagacccc gattggaaac ccagtaccac ggccaacacg aaagccaaga
+     2521 agaagacgcc tatcttttac tcaaacaact ccaggaagag caagaaacga gcagttcgga
+     2581 gggagaacaa gcaccccaag aaaaaacact ccaaaaagaa aagctcctca agcagctgca
+     2641 gctccacaag cagcagcagc aactcctcag aaaaggaatc agacacctcc tcggggacgt
+     2701 cctccgactc agacggggag tccactggga cccaggccta tagtactgcc tccagagcct
+     2761 attccagact tgcttttccc aaatactaaa aaaaaaaaga aattttcgcc cttagactgg
+     2821 gagaacgagg ctcaaatagc agggtggtta gacaggccta tgaggctgta tcctggggac
+     2881 aaccccttct acccgtggct accaaaaaag ccacctaccc accctacatg tagagtaacc
+     2941 ttcaaaataa agctagatga ttaacttgca aggccgtggg agtttcactt gtcggtgtct
+     3001 acctctaaaa gtcactaagc actccgagcg aagcgaggag tgcgaccccc ctgcccggta
+     3061 gcaacttcct cggggtccgg cgccacgcct tcggctgcgc cggacgcctc ggaccccccc
+     3121 tcgacccgaa tcgctcgcgc gattcggacc tgcggcctcg ggggggtcgg gggctttact
+     3181 aaacagactc cgagtcgctc ttggactctg agggggcgta cagcaacgaa agtgagtggg
+     3241 gccagacttc gccataaggc ctttaacttc cgggtgcgta tgggggccgt cattttagct
+     3301 tcggccgcca ttttaggccc tcgcgggcct ccgtaggcgc gtactagtga cgtcacggca
+     3361 gccattttga ctgtgacgtc aaagtcacgt ggggaggagg gcgtgtaacc cggaagtcat
+     3421 cctcgtcacg tgacctgacg tcacggccgc cattttgtgc tgtccgccat cttgttactt
+     3481 ccttccgctt tttcaaaaaa aaagaggaag tatgacgtag cggcgggggg gcggcgcgct
+     3541 tcgcgcgccg cccattaggg ggcgttgcgc gccccccccc gcgcatgcgc ggggcccccc
+     3601 ccccgggggg gctccgcccc cccggccccc ccccgtacta aatccaccgc gcatgcgagg
+     3661 acacgccccc gccgcc
+//
+LOCUS       AB038623                3676 bp    DNA     linear   VRL 19-APR-2011
+DEFINITION  TT virus genes for ORF2, ORF1, ORF3, complete cds,
+            isolate:TTVyon-KC186.
+ACCESSION   AB038623
+VERSION     AB038623.1  GI:7415895
+KEYWORDS    .
+SOURCE      Torque teno virus (TTV)
+  ORGANISM  Torque teno virus
+            Viruses; ssDNA viruses; Anelloviridae; unclassified Anelloviridae.
+REFERENCE   1
+  AUTHORS   Takahashi,K., Hijikata,M., Samokhvalov,E.I. and Mishiro,S.
+  TITLE     Full or near full length nucleotide sequences of TT virus variants
+            (Types SANBAN and YONBAN) and the TT virus-like mini virus
+  JOURNAL   Intervirology 43 (2), 119-123 (2000)
+  PUBMED    10971131
+REFERENCE   2  (bases 1 to 3676)
+  AUTHORS   Mishiro,S., Hijikata,M. and Takahashi,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2000) Shunji Mishiro, Toshiba General Hospital,
+            Department of Medical Sciences; 6-3-22 Higashi Oh-i, Shinagawa,
+            Tokyo 140-8522, Japan (E-mail:izumi@s.email.ne.jp,
+            Tel:81-3-3764-8981, Fax:81-3-3764-8992)
+FEATURES             Location/Qualifiers
+     source          1..3676
+                     /organism="Torque teno virus"
+                     /mol_type="genomic DNA"
+                     /isolate="TTVyon-KC186"
+                     /db_xref="taxon:68887"
+                     /note="TTV; type YONBAN"
+     CDS             403..789
+                     /codon_start=1
+                     /product="ORF2"
+                     /protein_id="BAA93588.1"
+                     /db_xref="GI:7415896"
+                     /translation="MPWRPPAHNVPGRENQWFAAVFHSHASWCGCGDVVGHLNTIATR
+                     FPNAGPPRPPPGLDQQNPEGPAGPGGPPAILPALPAPADPEPPPRRGGGADGGVDGGL
+                     AIANAPGDYGDDDLDELFAAAAEDNM"
+     CDS             666..2867
+                     /note="ACG for ATG as start codon"
+                     /codon_start=1
+                     /transl_except="(pos:666..668,aa:Met)"
+                     /product="ORF1"
+                     /protein_id="BAA93589.1"
+                     /db_xref="GI:7415897"
+                     /translation="MAWWWGRWRRRWRPRYRKRTWRLRRRRPRRTFRRRRRRQYVSRR
+                     RRRRYYRRRLRRGRRRGRRKRHRQTLVLRQWQPDVVRHCKITGWMPLIICGSGSTQNN
+                     FITHMDDFPPMGYSFGGNFTNLTFSLEGIYEQFLYHRNRWSRSNHDLDLARYKGTTLK
+                     LYRHHTLDYIVSYNRTGPFQISDMTYPSTHPALMLLQKHRIVVPSVLTKPKGKRSIKV
+                     RIKPPKLMLNKWYFTKDICSMGLFQLQATACTLYNPWLRDTTKSPVIGFRVLKNSIYT
+                     NLSNLPDHEGSREAIRKKLHPQSLTGHSPNQKGWEYSYTKLMAPIYYSANRNSTYNWL
+                     NYQDNYVATYTKFKVKMTDNLQLIQKEYSYHYPNNTTTDLIKNNTLTHDWGIYSPYWL
+                     TPTRISLDWETPWTYVRYNPLADKGIGNAVYAQWCSEQTSKLDPKKSKCIMRDLPLWC
+                     IFYGYVDWIVKSTGVSSAVTDMRVAIRSPYTEPALIGSTEDVGFIPVSDTFCNGDMPF
+                     LAPYIPVGWWIKWYPMIAHQKEVFEQIVNCGPFVPRDQTTPSWEITMGYKMDWLWGGS
+                     PLPSQAIDDPCQKPTHELPDPDRHPRMLQVSDPTKLGPKTVFHRWDWRRGMLSKRSIK
+                     RVQEDSTDDEYVAGPLPRKRNKFDTRAQGLQSPEKESYTLLQALQESGQESSSEDQEQ
+                     APQEKEGQKEALMEQLQLQKQHQRVLKRGLKLLLGDVLRLRRGVHWDPLLS"
+     CDS             2560..2904
+                     /codon_start=1
+                     /product="ORF3"
+                     /protein_id="BAA93590.1"
+                     /db_xref="GI:7415898"
+                     /translation="MMNMLQGLYQEKETSSIPEPKGSKAPKKKATLYSKPSKSRGKRA
+                     AQKTKNKHPKKKRVRRKRSWSSSSSRNSTSESSSEASNSSSETFSDSGEEYTGTPSCH
+                     NSGPLYPRPTFP"
+ORIGIN      
+        1 cccccccccg ggaaaggggg gtttcccccc ttgggggggg tttgsccccc cggccccccc
+       61 ccgtggttaa tccaccgcgc atgcgcggcc acgcccccgc cgccattttg tacagcccgc
+      121 caatttctgt tcaaacaggc caatcaggac cttctacgta cacttcctaa ggcgtgtctt
+      181 cgaggtctat aaaagcagag gcggtgacga atggtagagt tttttctggc ccgtccgcgg
+      241 cgagagcgcg agcgaagcga gcgatcgagc gtcccgtggg cgggtgccgt aggtgagttt
+      301 acacaccgaa gtcaaggggc aattcgggca cgggactggc cgggctatgg gcaaggctct
+      361 taaaaaattc cctcgctctg ttctccggca gaacacaaag tcatgccgtg gagaccgccg
+      421 gcacataacg ttccgggtag ggaaaatcaa tggttcgcag ctgtgtttca ctcgcatgct
+      481 tcttggtgcg gctgtggtga cgttgttggg catcttaata ccattgctac tcgctttcct
+      541 aacgccggtc ccccgagacc acctccaggg ctagaccagc agaaccccga gggcccggcg
+      601 ggtcccggag gtccccccgc catcttgcct gctctgccgg ccccggcaga ccctgaaccg
+      661 ccgccacggc gtggtggtgg ggcagatgga ggcgtcgatg gaggcctcgc tatcgcaaac
+      721 gcacctggag attacggaga cgacgaccta gacgaacttt tcgccgccgc cgccgaagac
+      781 aatatgtgag taggcggagg cgccgccgct actacaggcg cagactgaga cggggcagac
+      841 gcagagggcg acgaaagaga cacagacaga ctctagtcct cagacaatgg caaccagacg
+      901 ttgttagaca ctgtaaaatt acaggatgga tgccccttat catctgtggc tccgggagca
+      961 cacagaacaa ttttataact cacatggacg actttcctcc catgggctac tcctttgggg
+     1021 gcaactttac aaacctcacc ttctccttag agggcatata tgaacaattt ctgtaccaca
+     1081 gaaacaggtg gtctcgctcc aaccatgacc tagacctagc cagatacaaa ggcacaactc
+     1141 taaaactcta cagacaccac accttagact acatagtcag ctacaacaga acaggcccct
+     1201 tccagatcag tgacatgacc taccccagca cacaccctgc acttatgcta ctccagaaac
+     1261 acagaatagt agtgcccagc gtactcacta aacctaaagg caagagatcc ataaaggtca
+     1321 gaataaagcc accaaaactc atgcttaaca agtggtactt caccaaagac atatgcagca
+     1381 tgggcctttt tcaactacag gccacagcat gcaccctata caatccctgg ctcagagaca
+     1441 ccacaaaaag cccagtcata ggcttcaggg tacttaaaaa cagtatctat acaaacctca
+     1501 gcaacctacc agaccatgag ggttccagag aagccataag aaaaaaacta cacccacaat
+     1561 ccttaacagg acactctccc aaccaaaaag gctgggaata cagctatact aaactaatgg
+     1621 ctccaatata ctactctgcc aacagaaaca gtacatataa ctggctaaac tatcaagaca
+     1681 actatgtagc cacatatact aaattcaaag tcaaaatgac agacaactta caactaatac
+     1741 aaaaagaata ctcataccac tatcccaaca ataccactac agaccttatt aagaacaaca
+     1801 cccttacaca tgactggggc atatacagtc cctactggct aacacccacc agaataagcc
+     1861 tagactggga aacaccctgg acatatgtaa gatacaaccc actggcagac aaaggcatag
+     1921 gcaatgctgt ctacgcacag tggtgctcag aacagacaag caaattagac ccaaaaaaga
+     1981 gcaagtgcat aatgagagac ctgccactgt ggtgcatatt ttatggctat gtagattgga
+     2041 tagtaaaatc cacaggagtc agcagcgcag tcactgacat gagagtagcc attagaagcc
+     2101 cctacactga accagcactt atagggtcaa ctgaagatgt aggcttcatt ccagtaagtg
+     2161 acaccttttg caacggagac atgccgtttc ttgctccata cattcctgtg ggctggtgga
+     2221 tcaagtggta ccccatgatt gcacaccaaa aggaagtgtt tgagcaaata gtaaactgtg
+     2281 gaccgtttgt gcccagagac cagaccactc ccagttggga aattaccatg ggttacaaaa
+     2341 tggactggtt atggggtggc tctcccctgc cttcacaggc aatcgacgac ccctgccaga
+     2401 agcccaccca cgaactaccc gatcccgata gacaccctcg catgttacaa gtctctgacc
+     2461 cgacaaagct cggaccgaag acagtgttcc acagatggga ctggagacgt gggatgctta
+     2521 gcaaaagaag tattaaaaga gtccaggagg actcaacaga tgatgaatat gttgcagggc
+     2581 ctttaccaag aaaaagaaac aagttcgata ccagagccca agggctccaa agccccgaaa
+     2641 aagaaagcta cactttactc caagccctcc aagagtcggg gcaagagagc agctcagaag
+     2701 accaagaaca agcaccccaa gaaaaagagg gtcagaagga agcgctcatg gagcagctcc
+     2761 agctccagaa acagcaccag cgagtcctca agcgaggcct caaactcctc ctcggagacg
+     2821 ttctccgact ccggagagga gtacactggg accccctcct gtcataattc agggcccctc
+     2881 tatcccagac ctacttttcc ctaacacaca aaaaaaaaac aaattttcca actacgactg
+     2941 ggtgtgcgag tacgagctag ccaaattaat ggatcgccct ttgcggcamt acccatcaga
+     3001 ccccccttac tacccctggc taccaaaaaa gcctcctacc cctcctacat gtaggataaa
+     3061 tttcaaatta aagcttgatg tttaaaatac aaggccgtgg gagtttcact tcatcggtgt
+     3121 ctacctctat aagtcactaa gcactccgag cgaagcgagg agtgcgaccc ccctgcccgg
+     3181 tagcaacttc ctcggggtcc ggcgctacgc cttcggctgc gccggacgcc tcggaccccc
+     3241 cctcgacccg aatcgctcgc gcgattcgga cctgcggcct cggggggttc gggggcttta
+     3301 ctaaacagac tccgaggtgc cattggacac tgagggggcg aacagcaacg aaagtgagtg
+     3361 gggccagact tcgccataag gcctttatct tcctgccatt tgtcagtgtc ttccgggttc
+     3421 gcgtgggggc cgccatttta gcttcggccg ccattttacg ccctcgcggg cctccgtagg
+     3481 cgcatattag tgacgtcacg gcagccatct ttgttgtgac gtcaaagtca cgtggaragg
+     3541 gcggcgttaa acccggaagt catcctcgtc acgtgacctc acgtcacggc cgccattttg
+     3601 tgctgtccgc catcttgtga cttccttccg ctttttgtaa aaaaaagagg aagtatgacg
+     3661 tagcggcggg gggggg
+//
+LOCUS       AB038624_(modifi        3676 bp    DNA     linear   VRL 28-JUN-2011
+DEFINITION  TT virus genes for ORF2, ORF1, ORF3, complete cds,
+            isolate:TTVyon-KC197.
+ACCESSION   AB038624 (modified)
+VERSION     AB038624.1  GI:7415899
+KEYWORDS    ORF1.
+SOURCE      Torque teno virus (TTV)
+  ORGANISM  Torque teno virus
+            Viruses; ssDNA viruses; Anelloviridae; unclassified Anelloviridae.
+REFERENCE   1
+  AUTHORS   Takahashi,K., Hijikata,M., Samokhvalov,E.I. and Mishiro,S.
+  TITLE     Full or near full length nucleotide sequences of TT virus variants
+            (Types SANBAN and YONBAN) and the TT virus-like mini virus
+  JOURNAL   Intervirology 43 (2), 119-123 (2000)
+  PUBMED    10971131
+REFERENCE   2  (bases 1 to 3676)
+  AUTHORS   Mishiro,S., Hijikata,M. and Takahashi,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2000) Shunji Mishiro, Toshiba General Hospital,
+            Department of Medical Sciences; 6-3-22 Higashi Oh-i, Shinagawa,
+            Tokyo 140-8522, Japan (E-mail:izumi@s.email.ne.jp,
+            Tel:81-3-3764-8981, Fax:81-3-3764-8992)
+FEATURES             Location/Qualifiers
+     source          1..3676
+                     /organism="Torque teno virus"
+                     /mol_type="genomic DNA"
+                     /isolate="TTVyon-KC197"
+                     /db_xref="taxon:68887"
+                     /note="TTV; type YONBAN"
+                     /label="TTV; type YONBAN source Torque teno virus"
+     CDS             403..789
+                     /codon_start=1
+                     /product="ORF2"
+                     /protein_id="BAA93591.1"
+                     /db_xref="GI:7415900"
+                     /translation="MPWKPPRHNVPGRENQWFAAVFHSHASWCGCADVVGHLNSIATR
+                     FPNIGPPRPPPGLDQQNPEGPAGPGGPPAILPALPAPANPEPPPRRGGGADGGAAGGL
+                     AIADAPGGYAEDDLDELFAAAAEDDM"
+                     /label="ORF2 CDS"
+     CDS             666..2867
+                     /note="ACG for ATG as start codon"
+                     /codon_start=1
+                     /transl_except="(pos:666..668,aa:Met)"
+                     /product="ORF1"
+                     /protein_id="BAA93592.1"
+                     /db_xref="GI:7415901"
+                     /translation="MAWWWGRWRRRWRPRYRRRTWRVRRRRPRRTFRRRRRGRYVSRR
+                     RRRRYYRRRLRRGRRRGRRKRHRQTLVLRQWQPDVLRRCKITGWMPLIICGSGSTQNN
+                     FITHMDDFPPMGYSYGGNFTNLTFSLEGIYEQFLYHRNRWSRSNHDLDLARYKGTTLK
+                     LYRHHTLDYIVSYNRTGPFQISDMTYLSTHPALMLLQKHRIVVPSLLTKPKGKRSIKV
+                     RIKPPKLMLNKWYFTKDICSMGLFQLQATACTLYNPWLRDTTKSPVIGFRVLKNSIYT
+                     NLSNLPDHEGAREAIRKKLHPQSLTGSVPNQKGWEYSYTKLMAPIYYQAIRNSTYNWL
+                     NYQQNYSQTYQTFKQKMQDNLQLIQKEYMYHYPNNVTTDILGKNTLTHDWGIYSPYWL
+                     TPTRISLDWETPWTYVRYNPLADKGIGNAVYAQWCSEQTSNLDTKKSKCIMKDLPLWC
+                     IFYGYVDWVVKSTGVSSAVTDMRVAIISPYTEPALIGSSPEVGYIPVSDTFCNGDTPF
+                     LAPYIPVGWWIKWYPMIAHQKEVFEAIVNCGPFVPRDQTTPSWEITMGYKMDWLWGGS
+                     PLPSQAIDDPCQKPTHELPDPDRHPRMLQVSDPTKLGPKTVFHKWDWRRGMLSKRSIK
+                     RVQEDSTDDEYVAGPLPRKRNKFDTRAQGLQSPEKESYTLLQALQESGQETSSEDQEQ
+                     APQEKEGQKEALMEQLQLQKQHQRVLKRGLKLLLGDVLRLRRGVHWDPLLS"
+                     /label="ORF1 CDS"
+     CDS             2560..2904
+                     /codon_start=1
+                     /product="ORF3"
+                     /protein_id="BAA93593.1"
+                     /db_xref="GI:7415902"
+                     /translation="MMNMLQGLYQEKETSSIPEPKGSKAPKKKATLYSKPSKSRGKRR
+                     AQKTKNKHPKKKRVRRKRSWSSSSSRNSTSESSSEASNSSSETFSDSGEEYTGTPSCH
+                     NSGPLYPRPAFP"
+                     /label="ORF3 CDS"
+     ncRNA           3343..3598
+     ncRNA           3524..3546
+     ncRNA           3561..3581
+ORIGIN      
+        1 cccccccccg ggaawggggg gtttccccct ttgggggggk tttgcccccc cggccccccc
+       61 ccgtgctgaa tccaccgcgc atgcgcggcc acgcccccgc cgccattttg tgcagcccgc
+      121 caatttctgt tcaaacagcc caatcaggac cttctacgta cacttcctgg ggcgtgtctt
+      181 cgaggtctat aaaagcagag gcggtgacga atggtagagt ttttgctggc ccgtccgcgg
+      241 cgagagcgcg agcgaagcga gcgatcgagc gtcccgtggg cgggtgccgt aggtgagttt
+      301 acacaccgaa gtcaaggggc aattcgggca cgggactggc cgggctatgg gcaaggctct
+      361 taaaaaattc ccttgctctg ttctccggca ggacacaaag tcatgccgtg gaaaccgccg
+      421 cgacataacg ttccgggtag ggaaaaccaa tggtttgcag cagtgtttca ctcgcatgct
+      481 tcttggtgcg gctgtgctga cgttgttggc catcttaata gcattgctac tcgctttcct
+      541 aacatcggtc ccccgagacc acctccaggg ctagaccagc agaaccccga gggcccggcg
+      601 ggtcccggag gtccccccgc catcttgcct gctctgccgg ccccggcaaa ccctgaaccg
+      661 ccgccacggc gtggtggtgg ggcagatgga ggcgccgctg gaggcctcgc tatcgcagac
+      721 gcacctggag ggtacgcaga agacgaccta gacgaacttt tcgccgccgc cgccgaggac
+      781 gatatgtgag taggcggagg cgccgccgct actacaggcg cagactcaga cggggcagac
+      841 gcagagggcg acgaaagaga cacagacaga ctctagtcct cagacaatgg caaccagacg
+      901 ttcttagacg ctgtaaaatt acaggatgga tgccccttat catctgtggc tccggaagca
+      961 cacagaacaa ttttataact cacatggacg actttcctcc catgggctac tcctacgggg
+     1021 gcaactttac aaacctcacc ttctccttag agggcatata tgaacaattt ctgtaccaca
+     1081 gaaacaggtg gtctcgctcc aaccatgacc tagacctagc cagatacaaa ggcacaactc
+     1141 taaaactcta cagacaccac accttagact acatagtgag ctacaataga acaggccctt
+     1201 tccagatcag tgacatgacc tacctcagca cacaccctgc acttatgcta ctccagaaac
+     1261 acagaatagt agtgcccagc ctactcacta aacctaaagg caagagatcc ataaaagtta
+     1321 gaataaaacc accaaaactc atgcttaaca agtggtactt caccaaagac atatgcagca
+     1381 tgggcctttt tcaactacag gccacagcat gcaccctata caacccctgg ctcagagaca
+     1441 ccacaaaaag cccagtcata ggcttcaggg tacttaaaaa cagtatttat acaaacctca
+     1501 gcaacctacc agaccatgaa ggagccagag aggccataag aaaaaaacta cacccacaat
+     1561 ccttaacagg atctgtccca aaccaaaaag gttgggaata cagctacaca aaactaatgg
+     1621 ctcccattta ctaccaagcc attagaaaca gcacatacaa ctggctaaac tatcaacaaa
+     1681 attactcaca aacataccaa acctttaaac aaaaaatgca agacaactta caactaatac
+     1741 aaaaagaata catgtaccac tacccaaaca atgtaacaac agacatacta ggcaaaaaca
+     1801 cacttacaca tgactggggc atatacagtc cctactggct aacacccacc agaatcagcc
+     1861 tagactggga aacaccttgg acatatgtta gatacaatcc actagcagac aagggcatag
+     1921 gcaatgctgt ctatgcacag tggtgctcag aacagaccag taacttagat acaaaaaaga
+     1981 gcaagtgcat aatgaaagac ctgccactgt ggtgcatatt ttatggctat gtagattggg
+     2041 tagtaaaatc cacaggcgtc agcagcgcag tgactgacat gagagtagcc atcattagcc
+     2101 cctacactga accagcactt atagggtcaa gtccagaggt aggctacatt ccagtaagtg
+     2161 acaccttttg caatggagac acgccgtttc ttgctccata catccctgtg ggctggtgga
+     2221 tcaagtggta ccccatgatt gcacaccaaa aggaagtgtt tgaggcaata gtaaactgtg
+     2281 gaccgtttgt gcccagagac cagaccactc ccagttggga aattaccatg ggttacaaaa
+     2341 tggactggtt atggggtggc tctcccctgc cttcacaggc aatcgacgac ccctgccaga
+     2401 agcccaccca cgaactaccc gatcccgata gacaccctcg catgttacaa gtctctgacc
+     2461 cgacaaagct cggaccgaag acagtgttcc acaaatggga ctggagacgt gggatgctta
+     2521 gcaaaagaag tattaaaaga gtccaggagg actcaacaga tgatgaatat gttgcagggc
+     2581 ctttaccaag aaaaagaaac aagttcgata ccagagccca agggctccaa agccccgaaa
+     2641 aagaaagcta cactttactc caagccctcc aagagtcggg gcaagagacg agctcagaag
+     2701 accaagaaca agcaccccaa gaaaaagagg gtcagaagga agcgctcatg gagcagctcc
+     2761 agctccagaa acagcaccag cgagtcctca agcgaggcct caaactcctc ctcggagacg
+     2821 ttctccgact ccggagagga gtacactggg accccctcct gtcataattc agggcccctc
+     2881 tatcccagac ctgcttttcc ctaacacaca aaaaaaaaaa aaattttcca actacgactg
+     2941 gctgtgcgag tacgagctgg ccagatgtat ggatcgccct ttgcggcaat acccatcaga
+     3001 ccccccttac tacccctggc taccaaaaaa gcctcctacc cctcctacat gtagggtaaa
+     3061 tttcaaatta aagctcgatg tttaaaatgc aaggccgtgg gagtttcact tcatcggtgt
+     3121 ctacctctat aagtcactaa gcactccgag cgaagcgagg agtgcgaccc ccctgcccgg
+     3181 tagcaacttc ctcggggtcc ggcgctacgc cttcggctgc gccggacgcc tcggaccccc
+     3241 cctcgacccg aatcgctcgc gcgattcgga cctgcggcct cggggggttc gggggcttta
+     3301 ctaaacagac tccgaggtgc cattggacac tgagggggcg aacagcaacg aaagtgagtg
+     3361 gggccagact tcgccataag gcctttatct tcctgccatt tgtcagtatc ttccgggttc
+     3421 gcgtgggggc cgccatttta gcttcggccg ccattttagg ccctcgcggg cctccgtagg
+     3481 cgcatattag tgacgtcacg gcagccatat tggctgtgac gtcaaagtca cgtggggagg
+     3541 gcggcgttaa acccggaagt catcctcgtc acgtgacctg acgtcacggc cgccattttg
+     3601 tgctgtccgc catcttgtaa cttccttccg ctttttgtaa aaaaaagagg aagtatgacg
+     3661 tagcggcggg gggggg
+//
+LOCUS       AB038621                3676 bp    DNA     linear   VRL 19-APR-2011
+DEFINITION  Torque teno virus 29 ORF2, ORF1, ORF3 genes, complete cds, isolate:
+            TTVyon-KC009.
+ACCESSION   AB038621
+VERSION     AB038621.1  GI:7415887
+KEYWORDS    .
+SOURCE      Torque teno virus 29
+  ORGANISM  Torque teno virus 29
+            Viruses; ssDNA viruses; Anelloviridae; Alphatorquevirus.
+REFERENCE   1
+  AUTHORS   Takahashi,K., Hijikata,M., Samokhvalov,E.I. and Mishiro,S.
+  TITLE     Full or near full length nucleotide sequences of TT virus variants
+            (Types SANBAN and YONBAN) and the TT virus-like mini virus
+  JOURNAL   Intervirology 43 (2), 119-123 (2000)
+  PUBMED    10971131
+REFERENCE   2  (bases 1 to 3676)
+  AUTHORS   Mishiro,S., Hijikata,M. and Takahashi,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2000) Contact:Shunji Mishiro Toshiba General
+            Hospital, Department of Medical Sciences; 6-3-22 Higashi Oh-i,
+            Shinagawa, Tokyo 140-8522, Japan
+FEATURES             Location/Qualifiers
+     source          1..3676
+                     /organism="Torque teno virus 29"
+                     /mol_type="genomic DNA"
+                     /isolate="TTVyon-KC009"
+                     /db_xref="taxon:687368"
+                     /note="TTV; originally submitted as 'TT virus'; type
+                     YONBAN"
+     CDS             403..789
+                     /note="unnamed protein product; ORF2"
+                     /codon_start=1
+                     /protein_id="BAA93582.1"
+                     /db_xref="GI:7415888"
+                     /translation="MPWRPPGHNVPGRENQWFAAVFHSHASWCGCGDFVGHLNSIAPR
+                     FSNAGPPRPPPGLDQHNPEGPAGPGGPPAILPALPAPADPEPPPRRGGGADGGAAGGL
+                     AIADAPGGYGEDDLDELFAAAAEDDM"
+     CDS             666..2867
+                     /note="unnamed protein product; ACG for ATG as start
+                     codon; ORF1"
+                     /codon_start=1
+                     /transl_except="(pos:666..668,aa:Met)"
+                     /protein_id="BAA93583.1"
+                     /db_xref="GI:7415889"
+                     /translation="MAWWWGRWRRRWRPRYRRRTWRVRRRRPRRTFRRRRRGRYVSRR
+                     RRRRYYRRRLRRGRRRGRRKRHRQTLILRQWQPDVVRHCKITGWMPLIICGSGSTQNN
+                     FITHMDDFPPMGYSYGGNFTNLTFSLEGIYEQFLYHRNRWSRSNHDLDLARYKGTTLK
+                     LYRHHTLDYIVSYNRTGPFQISDMTYLSTHPALMLLQKHRIVVPSLLTKPKGKRSIKV
+                     RIKPPKLMLNKWYFTKDICSMGLFQLQATACTLYNPWLRDTTKSPVIASRVLKNSIYT
+                     NLSNLPEHNGARESIRNKLHPESLTGSVPNQKGWEYSYTKLMAPIYYQANRNSTYNWL
+                     NYQQNYSQTYQAFKQKMNNNLTLIQQEYMYHYPNSVTTDIIGKNTLTHDWGIYSPYWL
+                     TPTRISLDWGTPWTYVRYNPLADKGIGNAVYAQWCSEQTSNLDTKKSKCIMKDLPLWC
+                     IFYGYVDWIIKSTGVSSAVTDMRVAIISPYTEPALIGSSPEVGYIPVSDTFCNGDMPF
+                     LAPYIPVGWWIKWYPMIAHQKEVFEAIVNCGPFVPRDQTTPSWEITMGYKMDWLWGGS
+                     PLPSQAIDDPCQKPTHELPDPDRHPRMLQVSDPTKLGPKTVFHKWDWRRGMLSKRSIK
+                     RVQEDSTDDEYVAGPLPRKRNKFDTRAQGLQSPEKENYTLLQALQDSGQESSSENQEQ
+                     APQEKEGQKEALMEQLQLQKQHQRVLKRGLKLLLGDVLRLRRGVHWDPLLS"
+     CDS             2560..2904
+                     /note="unnamed protein product; ORF3"
+                     /codon_start=1
+                     /protein_id="BAA93584.1"
+                     /db_xref="GI:7415890"
+                     /translation="MMNMLQGLYQEKETSSIPEPKGSKAPKKKTTLYSKPSKTRGKRA
+                     AQKTKNKHPKKKRVRRKRSWSSSSSRNSTSESSSEASNSSSETFSDSAEESTGTPSCH
+                     NSGPLYPRPAFP"
+ORIGIN      
+        1 cccccccccg ggaawggggg ggttcccccy ttgggggggt ttkgcccccc cggccccccc
+       61 ccgtgctaaa tccaccgccc atgcgcggcc aagcccccgc cgccattttg tgcagcccgc
+      121 caatttctgt tcaaacaggc caatgaggat cttctacgta cacttcctgg ggcgtgtctt
+      181 cgaggtctat aaaagcagag gcggtgacga atggcagagt tttttctagc ccgtccgcgg
+      241 cgagagcgcg agcaaagcga gcgatcgagc gtcccgtggg cgggtgccgt aggtgagttt
+      301 acacaccgaa gtcaaggggc aattcgggca cgggactggc cgggctatgg gcaagactct
+      361 taaaaaattc ccccgctctg ttctccggca ggacacaaag tcatgccgtg gagaccgccg
+      421 ggccataacg ttccgggtag ggaaaaccag tggtttgcag cagtttttca ctcgcatgct
+      481 tcttggtgcg gctgtggtga ctttgttggg caccttaata gcattgctcc tcgcttttct
+      541 aacgccggtc ccccgagacc acctccaggg ctagaccagc acaaccccga gggcccggcg
+      601 ggtcccggag gtccccccgc catcttgcca gctctgccgg ccccggcaga ccctgaaccg
+      661 ccgccacggc gtggtggtgg ggcagatgga ggcgccgctg gaggcctcgc tatcgcagac
+      721 gcacctggag ggtacggaga agacgaccta gacgaacttt tcgccgccgc cgccgaggac
+      781 gatatgtgag taggcggagg cgccgccgct actacaggcg cagactgaga cggggcagac
+      841 gcagagggcg acgaaagaga cacagacaga ctctaatcct cagacaatgg caaccagacg
+      901 ttgtcagaca ctgtaaaatt acaggatgga tgccccttat catctgtggc tcagggagca
+      961 cacagaacaa ttttataact cacatggacg acttccctcc catgggctac tcctacgggg
+     1021 gcaactttac aaacctcacc ttctccttag aaggcattta tgaacaattt ctgtaccaca
+     1081 gaaacaggtg gtctcgctcc aaccatgacc tagacctagc cagatacaaa ggcacaactc
+     1141 taaaactcta cagacaccac accttagact acatagtcag ctacaacaga acaggccctt
+     1201 tccagattag tgacatgacc tacctcagca cacaccctgc acttatgcta ctccaaaaac
+     1261 acagaatagt agtgcccagc ctactcacca aacctaaagg caagagatcc ataaaagtca
+     1321 gaataaaacc accaaaactc atgcttaaca aatggtactt caccaaagac atatgcagca
+     1381 tgggcctctt ccaactacaa gccacagcat gcaccctata caacccctgg ctcagagaca
+     1441 ccacaaaaag cccagtcata gcttccaggg tacttaaaaa cagcatttat acaaacctca
+     1501 gcaacctacc agagcataac ggagccagag agtccataag aaataaacta cacccagaat
+     1561 ccttaacagg atctgtacca aaccaaaaag gttgggaata cagctacaca aaactaatgg
+     1621 ctcccattta ctaccaagcc aatagaaaca gcacatacaa ctggctaaac tatcaacaaa
+     1681 attactcaca aacataccaa gcctttaaac aaaaaatgaa caacaactta acactaatac
+     1741 aacaagaata catgtaccac tacccaaaca gtgtwacaac agacataata ggcaaaaaca
+     1801 cacttacaca tgactggggc atatacagtc catactggct aacacccacc agaatcagcc
+     1861 tagactgggg aacaccttgg acatatgtta gatacaatcc actagcagac aagggcatag
+     1921 gcaatgctgt ctatgcacag tggtgctcag aacagaccag taacttagat acaaaaaaga
+     1981 gcaagtgcat aatgaaagac ctgccactgt ggtgcatatt ttatggctat gtagattgga
+     2041 taataaaatc cacaggcgtc agcagcgcag tgactgacat gagagtagcc atcattagcc
+     2101 cctacactga accagcactt atagggtcaa gtccagaggt aggctacatt ccagtaagtg
+     2161 acaccttttg caacggagac atgccgtttc ttgctccata catccctgtg ggctggtgga
+     2221 tcaaatggta ccccatgatt gcacaccaaa aggaagtgtt tgaagcaata gttaactgtg
+     2281 gaccgtttgt gcccagagac cagaccactc ccagttggga aattaccatg ggttacaaaa
+     2341 tggactggtt atggggtggc tctcccctgc cttcacaggc aatcgacgac ccctgccaga
+     2401 agcccaccca cgaactaccc gatcccgata gacaccctcg catgttacaa gtctctgacc
+     2461 cgacaaagct cggaccgaag acagtgttcc acaaatggga ctggagacgt gggatgctta
+     2521 gcaaaagaag tattaaaaga gtccaggagg actcaacaga tgatgaatat gttgcagggc
+     2581 ctttaccaag aaaaagaaac aagttcgata ccagagccca agggctccaa agccccgaaa
+     2641 aagaaaacta cactttactc caagccctcc aagactcggg gcaagagagc agctcagaaa
+     2701 accaagaaca agcaccccaa gaaaaagagg gtcagaagga agcgctcatg gagcagctcc
+     2761 agctccagaa acagcaccag cgagtcctca agcgaggcct caaactcctc ctcggagacg
+     2821 ttctccgact ccgcagagga gtccactggg accccctcct gtcataattc agggcccctc
+     2881 tatcccagac ctgcttttcc ctaacacaca aaaaaaaaag aaattttcca actacgactg
+     2941 ggtgtgcgag tacgagctgg ccaaatttat ggatcgccct ttgcggcaat acccatcaga
+     3001 cctccctcac tacccgtggc taccaaaaaa gcctcctacc ccttctacat gtagggtaaa
+     3061 tttcaaatta aagctcgatg tttaaaatgc aaggccgtgg gagtttcact tcatcggtgt
+     3121 ctacctctat aagtcactaa gcactccgag cgaagcgagg agtgcgaccc ccctgcccgg
+     3181 tagcaacttc ctcggggtcc ggcgctacgc cttcggctgc gccggacgcc tcggaccccc
+     3241 cctcgacccg aatcgctcgc gcgattcgga cctgcggcct cggggggttc ggggacttta
+     3301 ctaaacagac tccgaggtgc cattggacac tgagggggcg aacagcaacg aaagtgagtg
+     3361 gggccagact tcgccataag gcctttatct tcctgccatt tgtcagtgtc ttccgggttc
+     3421 gcgtgggggc cgccatctta gcttcggccg ccattttagg ccctcgcggg cctccgtagg
+     3481 cgcatattag tgacgtcacs gcagccatct tggctstgac gtcaaagtca cgtgggragg
+     3541 gtggcgttaa acccggaagt catcctcgtc acgtgacctg acgtcacagc cgccattttg
+     3601 tgctgtccgc catcttgtga cttccttccg ctttttgtaa aaaaaagagg aagtatgacg
+     3661 tagcggcggg gggggg
+//
+LOCUS       AB038622                3675 bp    DNA     linear   VRL 19-APR-2011
+DEFINITION  TT virus genes for ORF2, ORF1, ORF3, complete cds,
+            isolate:TTVyon-LC011.
+ACCESSION   AB038622
+VERSION     AB038622.1  GI:7415891
+KEYWORDS    .
+SOURCE      Torque teno virus (TTV)
+  ORGANISM  Torque teno virus
+            Viruses; ssDNA viruses; Anelloviridae; unclassified Anelloviridae.
+REFERENCE   1
+  AUTHORS   Takahashi,K., Hijikata,M., Samokhvalov,E.I. and Mishiro,S.
+  TITLE     Full or near full length nucleotide sequences of TT virus variants
+            (Types SANBAN and YONBAN) and the TT virus-like mini virus
+  JOURNAL   Intervirology 43 (2), 119-123 (2000)
+  PUBMED    10971131
+REFERENCE   2  (bases 1 to 3675)
+  AUTHORS   Mishiro,S., Hijikata,M. and Takahashi,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2000) Shunji Mishiro, Toshiba General Hospital,
+            Department of Medical Sciences; 6-3-22 Higashi Oh-i, Shinagawa,
+            Tokyo 140-8522, Japan (E-mail:izumi@s.email.ne.jp,
+            Tel:81-3-3764-8981, Fax:81-3-3764-8992)
+FEATURES             Location/Qualifiers
+     source          1..3675
+                     /organism="Torque teno virus"
+                     /mol_type="genomic DNA"
+                     /isolate="TTVyon-LC011"
+                     /db_xref="taxon:68887"
+                     /note="TTV; type YONBAN"
+     CDS             402..788
+                     /codon_start=1
+                     /product="ORF2"
+                     /protein_id="BAA93585.1"
+                     /db_xref="GI:7415892"
+                     /translation="MPWRPPVHNVPGRENQWFAAFFHSHASFCGCGDPVGHINSIAPR
+                     FPNAGPPRPPPGLEQQNPEGPTGPGGPPAILPALPAPADPEPPPRLGGGADGGAAGGL
+                     AIADAPGGYEEDDLDELFAAAAEDDM"
+     CDS             665..2866
+                     /note="ACG for ATG as start codon"
+                     /codon_start=1
+                     /transl_except="(pos:665..667,aa:Met)"
+                     /product="ORF1"
+                     /protein_id="BAA93586.1"
+                     /db_xref="GI:7415893"
+                     /translation="MAWWWGRWRRRWRPRYRRRTWRVRRRRPRRTFRRRRRGRYVSRR
+                     RRRRYYRRRLRRGRRRGRRKRHRQTLVLRQWQPDIVRHCKITGWMPLIICGSGSTQNN
+                     FITHMDDFPPMGYSFGGNFTNLSFSLEGIYEQFLYHRNRWSRSNHDLDLARYKGTTLK
+                     LYRHHTLDYIVSYNRTGPFQISDMTYLSTHPALMLLQKHRIVVPSLLTKPKGKRSIKV
+                     RIKPPKLMLNKWYFTKDICSMGLFQLQATACTLYNPWLRDTTKSPVIGFRVLKNSIYT
+                     NLSNLPEHDQTRQAIRRKLHPDSLTGSTPYQKGWEYSYTKLMAPIYYQANRNSTYNWL
+                     NYQTNYAQTFTKFKEKMNENLALIQKEYSYHYPNNVTTDLIGKNTLTHDWGIYSPYWL
+                     TPTRISLDWETPWTYVRYNPLADKGIGNAVYAQWCSEQTSKLDTKKSKCIMKDLPLWC
+                     IFYGYVDWIIKSTGVSSAVTDMRVAIISPYTEPALIGSSPDVGYIPVSDTFCNGDMPF
+                     LAPYIPVGWWIKWYPMIAHQKEVFEAIVNCGPFVPRDQTTPSWEITMGYKMDWLWGGS
+                     PLPSQAIDDPCQKPTHELPDPDRHPRMLQVSDPTKLGPKTVFHKWDWRRGMLSKRSIK
+                     RVQEDSTDDEYVAGPLPRKRNKFDTRAQGLQTPEKESYTLLQALQESGQETSSEDQEQ
+                     APQEKEGQKEALMEQLQLQKQHQRVLKRGLKLLLGDVLRLRRGVHWDPLLS"
+     CDS             2559..2903
+                     /codon_start=1
+                     /product="ORF3"
+                     /protein_id="BAA93587.1"
+                     /db_xref="GI:7415894"
+                     /translation="MMNMLQGLYQEKETNSIPEPKGCKPPKKKATLYSKPSKSRGKRP
+                     AQKTKNKHPKKKRVRRKRSWSSSSSRNSTSESSSEASNSSSETSSDSGEESTGTPSCH
+                     NSGPLYPRPAFP"
+ORIGIN      
+        1 cccccccccg gggaaggggg ggtttccccc aagggggggg tttgcccccc cggscccccc
+       61 ccgtgctaaa tccaccgcgc atgcgcgacc aagcccccgc cgccattttg tgcagcccgc
+      121 caatttctgt tcaaacaggc caataagaac cttctacgta cacttcctgg ggcgtgtcta
+      181 tgaagtctat ataagcaatg ccggtgacga atggtagagt ttattttgcc cgtccgcggc
+      241 gagagcgcga gcgaagcgag cgatcgagcg tcccgtgggc gggtgccgaa ggtgagttta
+      301 cacaccgcag tcaaggggca attcgggcac gggactggcc gggctatggg caaggctctt
+      361 aaaaaattcc ctcgctctgt tctccggcag gacacaaagt catgccgtgg agaccgccgg
+      421 tacataacgt tccaggtcgc gaaaatcaat ggtttgcagc gttttttcac tcgcatgctt
+      481 ctttctgcgg ctgtggtgac cctgttgggc atattaacag cattgctcct cgctttccta
+      541 acgccggtcc accgagacca cctccagggc tagagcagca gaaccccgag ggcccgacgg
+      601 gtcccggagg tccccccgcc atcttgccag ctctgccggc cccggcagac cctgaaccgc
+      661 cgccacggct tggtggtggg gcagatggag gcgccgctgg aggcctcgct atcgcagacg
+      721 cacctggagg gtacgaagaa gacgacctag acgaactttt cgccgccgcc gccgaggacg
+      781 atatgtgagt aggcggaggc gccgccgcta ctacaggcgc agactgagac ggggcagacg
+      841 cagagggcga cgaaagagac acagacagac tctagtcctc agacagtggc aaccagacat
+      901 tgtcagacac tgtaaaatta caggatggat gccccttatc atctgtggct cagggagcac
+      961 acagaacaat tttataactc acatggacga ctttcctccc atgggctact ccttcggggg
+     1021 caactttaca aacctctcct tctccttaga gggcatttat gaacaatttc tgtaccacag
+     1081 aaacaggtgg tctcgctcca accatgacct agacctagcc agatacaaag gcacaactct
+     1141 aaaactctac agacaccaca ccttagacta catagtcagc tacaacagaa caggcccttt
+     1201 ccagatcagt gacatgacct acctcagcac acaccctgca ctcatgctac tccagaaaca
+     1261 cagaatagta gtacccagcc tactcactaa acctaaaggc aagagatcca taaaagttag
+     1321 aataaagcca ccaaaactca tgctcaacaa atggtacttc accaaagaca tatgcagcat
+     1381 gggcctcttc caactacagg ccacagcatg caccctatac aacccctggc tcagagacac
+     1441 cacaaaaagc ccagtcatag gcttcagagt acttaaaaac agtatttata caaacctcag
+     1501 caacctacca gaacatgatc aaaccagaca agccattaga cgaaaactac acccagactc
+     1561 cttaacagga tcaactccat atcaaaaagg ctgggaatac agctacacaa aactaatggc
+     1621 tccaatatac tatcaagcaa atagaaacag cacatacaac tggctaaatt atcaaacaaa
+     1681 ctatgctcaa acattcacca aatttaaaga aaaaatgaat gaaaaccttg cactaattca
+     1741 aaaagagtat tcataccact atcccaacaa tgtcactaca gaccttattg gcaaaaacac
+     1801 cctcacacat gactggggta tatacagtcc ctactggcta acacccacca gaataagcct
+     1861 agactgggaa acaccctgga catatgtcag atacaatcca ctagcagaca agggcatagg
+     1921 caatgctgtc tatgcacaat ggtgctcaga acagaccagt aaattagata caaaaaagag
+     1981 caagtgcata atgaaagacc tgccactgtg gtgcatattt tatggctatg tagattggat
+     2041 aataaaatcc acaggagtca gcagcgcagt cactgacatg agagtagcca tcatcagccc
+     2101 ctacaccgaa ccagcactta tagggtcaag tccagacgta ggctacattc cagtaagtga
+     2161 caccttttgc aatggagaca tgccgtttct tgctccatac atccctgtgg gctggtggat
+     2221 caaatggtac cctatgattg cacaccaaaa ggaagtgttt gaggcaatag ttaactgtgg
+     2281 accgtttgtg cccagagacc agaccactcc cagttgggaa attaccatgg gttacaaaat
+     2341 ggactggtta tggggtggct ctcccctgcc ttcacaggca atcgacgacc cctgccagaa
+     2401 gcccacccac gaactacccg atcccgatag acaccctcgc atgttacaag tctctgaccc
+     2461 gacaaagctc ggaccgaaga cagtgttcca caaatgggac tggagacgtg ggatgcttag
+     2521 caaaagaagt attaaaagag tccaggagga ctcaacagat gatgaatatg ttgcagggcc
+     2581 tttaccaaga aaaagaaaca aattcgatac cagagcccaa gggctgcaaa cccccgaaaa
+     2641 agaaagctac actttactcc aagccctcca agagtcgggg caagagacca gctcagaaga
+     2701 ccaagaacaa gcaccccaag aaaaagaggg tcagaaggaa gcgctcatgg agcagctcca
+     2761 gctccagaaa cagcaccagc gagtcctcaa gcgaggcctc aaactcctcc tcggagacgt
+     2821 cctccgactc cggagaggag tccactggga ccccctcctg tcataattca gggcccctct
+     2881 atcccagacc tgcttttccc taacacacaa aaaaaaaaca aattttccaa ttacgaatgg
+     2941 gtgtgcgagt acgaggtggc caaatggatg gatcgccctt ygcggcamta cccatcagac
+     3001 ccccctcact acccctggct accaaaaaag cctcctaccc ctcctacatg tagggtaagt
+     3061 ttcaaattaa agcttgatgt ttaaaatgca aggccgtggg agtttcactt catcggtgtc
+     3121 tacctctata agtcactaag cactccgagc gaagcgagga gtgcgacccc cctgcccggt
+     3181 agcaacttcc tcggggtccg gcgctacgcc ttcggctgcg ccggacgcct cggacccccc
+     3241 ctcgacccga atcgctcgcg cgattcggac ctgcggcctc ggggggttcg gggactttac
+     3301 taaacagact ccgaggtgcc attggacact gagggggcga acagcaacga aagtgagtgg
+     3361 ggccagactt cgccataagg cctttatctt ctcgccattt gttagtgtct tccgggttcg
+     3421 catgggggcc gccattttag cttcggccgc cattttaggc cctcgcgggc ctccgtaggc
+     3481 gcgtattagt gacgtcacgg cagccatctt ggttgtgacg tcaaagtcac gtggggaggg
+     3541 cggcgttaaa cccggaagtc atcctcgtca cgtgacctga cgtcacggcc gccattttgt
+     3601 gctgtccgcc atcttgtaac ttccttccgc tttttgtaaa aaaaagagga agtatgacgt
+     3661 agcggcgggg ggggg
+//
+LOCUS       AB064599                3669 bp    DNA     linear   VRL 19-APR-2011
+DEFINITION  Torque teno virus DNA, complete genome, isolate: JT03F.
+ACCESSION   AB064599
+VERSION     AB064599.1  GI:17827210
+KEYWORDS    .
+SOURCE      Torque teno virus (TTV)
+  ORGANISM  Torque teno virus
+            Viruses; ssDNA viruses; Anelloviridae; unclassified Anelloviridae.
+REFERENCE   1
+  AUTHORS   Peng,Y.H., Nishizawa,T., Takahashi,M., Ishikawa,T., Yoshikawa,A.
+            and Okamoto,H.
+  TITLE     Analysis of the entire genomes of thirteen TT virus variants
+            classifiable into the fourth and fifth genetic groups, isolated
+            from viremic infants
+  JOURNAL   Arch. Virol. 147 (1), 21-41 (2002)
+  PUBMED    11855633
+REFERENCE   2  (bases 1 to 3669)
+  AUTHORS   Okamoto,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUL-2001) Contact:Hiroaki Okamoto Jichi Medical
+            School, Immunology Division and Division of Molecular Virology;
+            3311-1 Yakushiji, Minamikawachi-machi, Kawachi-gun, Tochigi
+            329-0498, Japan
+FEATURES             Location/Qualifiers
+     source          1..3669
+                     /organism="Torque teno virus"
+                     /mol_type="genomic DNA"
+                     /isolate="JT03F"
+                     /db_xref="taxon:68887"
+                     /country="Japan"
+                     /note="synonym: TT virus"
+     gene            join(298..632,2476..2980)
+                     /gene="ORF4"
+     CDS             join(298..632,2476..2980)
+                     /gene="ORF4"
+                     /codon_start=1
+                     /product="ORF4"
+                     /protein_id="BAB79323.1"
+                     /db_xref="GI:17827211"
+                     /translation="MPWSLPRHNIRTREDLWVQSILYSHDTFCGCDNIPEHLTGLLGG
+                     VRPAPPRNPGPPTIRSLPALPPAPEPPEEPRRGGDTDGDRGEDGGDAAGAYEPEDLEE
+                     LFAAAEQDDMRRVQKTPIRHSPPRAAIKPRRRRLVYPQTTPKRARRDHLRGRTSTPKR
+                     RGAKRKAPTATQSPATAPASPQTGNQTPHGRRPPTQTGSPLEPSPIILPPEPIPDLLF
+                     PNTGKKKKFSLFDWECERDLACAFCRPMRFYPSDNPTYPWLPPKRDIPKICKVNFKIN
+                     FTE"
+     gene            join(298..632,2274..2808)
+                     /gene="ORF3"
+     CDS             join(298..632,2274..2808)
+                     /gene="ORF3"
+                     /codon_start=1
+                     /product="ORF3"
+                     /protein_id="BAB79324.1"
+                     /db_xref="GI:17827212"
+                     /translation="MPWSLPRHNIRTREDLWVQSILYSHDTFCGCDNIPEHLTGLLGG
+                     VRPAPPRNPGPPTIRSLPALPPAPEPPEEPRRGGDTDGDRGEDGGDAAGAYEPEDLEE
+                     LFAAAEQDDIPLTTPAKKENTTFPTPIQTLQEYKYQTRNTSDRRRCSTRGTSDVDILI
+                     QKVLKESQNTSMLMNIFRQASCPKNPDSTLPTTGSYQTKKKTPCLSSDNPKKSKKRPP
+                     PRKNKHSKKKRSKKKSSYSNSESSDSTSESSDRESNTSWETSSDSDRESTGTQSYNTS
+                     TRTNTRPLIPQYW"
+     gene            298..636
+                     /gene="ORF2"
+     CDS             298..636
+                     /gene="ORF2"
+                     /codon_start=1
+                     /product="ORF2"
+                     /protein_id="BAB79325.1"
+                     /db_xref="GI:17827213"
+                     /translation="MPWSLPRHNIRTREDLWVQSILYSHDTFCGCDNIPEHLTGLLGG
+                     VRPAPPRNPGPPTIRSLPALPPAPEPPEEPRRGGDTDGDRGEDGGDAAGAYEPEDLEE
+                     LFAAAEQDDM"
+     gene            519..2759
+                     /gene="ORF1"
+     CDS             519..2759
+                     /gene="ORF1"
+                     /note="ACG for ATG as start codon"
+                     /codon_start=1
+                     /transl_except="(pos:519..521,aa:Met)"
+                     /product="ORF1"
+                     /protein_id="BAB79326.1"
+                     /db_xref="GI:17827214"
+                     /translation="MAWWRYRRRPWRRWRRRRWGLRTRRPRRTFRRRRARRYVSRGRR
+                     RRYRRRRRRGRRRRGRRRRHRKTLIVRQWQPDVIKRCFITGWLPLIICGNGHTQFNFI
+                     THMDDIPPKNASYGGNFTNLTFNLACFYDEFMHHRNRWSASNHDLELVRYIRTSLKLY
+                     RHESVDYIVCYTTTGPFETNEMSYMLTHPLAMLLSKRHVVVPSLKTKPHGRKYKKITI
+                     KPPKLMLNKWYFATDLCHIGLFQLWATGLELRNPWLRSGTNSPVIGFYVLKNQVYKNR
+                     YSNLNTTEAHNARQDAWNELTQTKTNDKWYNWQYTYNKLMKPIYYAASNESSNSAMKG
+                     KTYNWKHYKEYFSNTQTKWKTIIKDAYDLVREEYQQLYTTTMAYPPPWQSTTSNTGRQ
+                     YLEHDCGIYSPYFLTPQIYSPEWHTAWSYIRYNPLTDKGIGNRVCVQYCSEASSDYNP
+                     IKSKCMLQDMPLWMMLYGYADYVVKSTGIQSAWTDMRVAIRCPYTDPKLVGSTENTMF
+                     IPIGLEFMNGDIPDKRPYIPLTWWFKWYPMITHQKTAIEAIVSCSPFMPRDQEQASWD
+                     ITVGYKATFLWGGSPLPPQPIDDPCQKGKHDIPDPDTNPPRIQISDPQHLGPATLFHS
+                     WDLRRGYINTKSIKRISEHLDANEYFSTGVVSKKPRFDTPHHGQLSNQEEDALSILRQ
+                     PQKEQEETTSEEEQALQKEEEQKEKLLQQLRVQRQHQRVLRQGIKHLMGDVLRLRQGV
+                     HWNPVL"
+ORIGIN      
+        1 attttgtgca gcccgccaat ttctgttcaa acaggccaat caccgtctac tacgtacact
+       61 tcctggggtg tgtcctccca ctgaatataa gcaacagcgg tgacgaatgg tagagttttt
+      121 tccgcccgtc cgcagcgagg acgcgagcgc agcgagcggc cgagcgaccc gtgggcggga
+      181 gccgaaggtg agtttacaca ccgcagtcaa ggggcaattc gggctcggga ctggccgggc
+      241 tatgggcaag actcttaaaa aatttccccg aactgttctc cggcaggaca ccaagccatg
+      301 ccgtggtctc tgccgagaca taatatcaga acgagagaag atctctgggt gcaatcgatt
+      361 ctttattcac atgacacttt ttgtggctgt gataatattc ctgagcatct tactggcctc
+      421 ctgggcggcg tacgaccagc tccacctaga aacccaggac cccctaccat acggagcctg
+      481 ccggcactgc cgccagctcc ggaaccccct gaggaaccac ggcgtggtgg agatacagac
+      541 ggagaccgtg gagaagatgg aggagacgcc gctggggcct acgaacccga agacctagaa
+      601 gaacttttcg ccgccgccga gcaagacgat atgtgagtag agggcggcgc cgccgataca
+      661 ggcgcagacg cagacggggg cgacgcagac ggggacgcag acgcaggcac agaaagactc
+      721 tcattgtcag gcaatggcaa ccagacgtta taaagagatg ctttatcaca gggtggctgc
+      781 ccctcattat ctgtggaaac ggacacaccc aatttaactt tataactcac atggatgaca
+      841 ttccacccaa gaatgcatcc tacgggggca acttcaccaa cttgaccttt aacctagcct
+      901 gcttctatga cgaattcatg caccacagaa acagatggtc agcctctaac catgacctag
+      961 agctagtgag atacatcaga accagcctta aactctacag acacgagtca gtagactata
+     1021 tagtgtgcta caccaccaca ggccccttcg agacaaatga aatgtcctac atgctcactc
+     1081 accctctggc catgctcctc agcaaaagac acgtagttgt gcctagccta aaaacaaaac
+     1141 cacacggcag aaagtacaaa aagataacaa ttaagccccc aaaactgatg ctaaacaagt
+     1201 ggtactttgc tacagacctc tgccacatag gcctcttcca gctctgggcc acaggcctag
+     1261 agcttagaaa tccatggctc agatcaggca caaacagccc tgttataggc ttctatgtcc
+     1321 ttaaaaacca agtttacaaa aacagataca gcaacctaaa cacaacagaa gcacacaacg
+     1381 ccagacaaga cgcatggaac gaactaaccc aaacaaaaac taacgacaaa tggtacaatt
+     1441 ggcaatatac atacaataaa cttatgaagc caatttacta tgcagcttca aatgaaagta
+     1501 gtaattcagc catgaaagga aaaacatata attggaaaca ttacaaagaa tattttagca
+     1561 acacacaaac taagtggaaa acaattatta aagacgccta tgacttagta agagaggaat
+     1621 accaacaatt atacaccaca actatggcat atccaccacc atggcaatca accacttcta
+     1681 atacaggcag acaataccta gaacatgact gtggcattta cagcccatac tttctaacac
+     1741 cacaaatata tagcccagaa tggcacacag cctggtccta catcagatac aatcccctca
+     1801 cagacaaagg cataggaaac agagtctgtg tccagtactg cagcgaggcc agcagcgact
+     1861 acaacccaat aaagagcaag tgtatgttac aagacatgcc cttgtggatg atgctgtatg
+     1921 gctacgcaga ctatgtagta aagagcacag gcatacagtc agcctggaca gacatgagag
+     1981 tggccatcag atgtccctac acagacccta agcttgtggg cagcacagaa aacaccatgt
+     2041 ttatccccat aggcctagaa ttcatgaacg gagacattcc agacaaaagg ccctacattc
+     2101 cgttaacctg gtggtttaag tggtacccca tgattacaca ccagaaaacc gcaattgagg
+     2161 caatagtttc ctgcagcccc ttcatgccca gagatcagga acaagctagt tgggacataa
+     2221 ctgtaggtta caaagcaacc ttcttatggg gcgggtcccc gttacctcca cagcccattg
+     2281 acgacccctg ccaaaaagga aaacacgaca ttcccgaccc cgatacaaac cctccaagaa
+     2341 tacaaatatc agacccgcaa cacctcggac cggcgacgct gttccactcg tgggacctca
+     2401 gacgtggata tattaataca aaaagtatta aaagaatctc agaacacctc gatgctaatg
+     2461 aatatttttc gacaggcgtc gtgtccaaaa aaccccgatt cgacactccc caccacgggc
+     2521 agctatcaaa ccaagaagaa gacgccttgt ctatcctcag acaaccccaa aaagagcaag
+     2581 aagagaccac ctccgaggaa gaacaagcac tccaaaaaga agaggagcaa aaagaaaagc
+     2641 tcctacagca actcagagtc cagcgacagc accagcgagt cctcagacag ggaatcaaac
+     2701 acctcatggg agacgtcctc cgactcagac agggagtcca ctggaaccca gtcctataat
+     2761 acttccacca gaaccaatac cagacctctt attccccaat actggtaaaa aaaaaaaatt
+     2821 ctctctcttc gactgggagt gcgagaggga tctagcatgt gcattctgcc gtcccatgcg
+     2881 cttctatccc tcagacaacc caacttaccc gtggttaccc cccaagcgag atatccccaa
+     2941 aatatgtaaa gtaaacttca aaataaattt cactgaatga aatttcgagg ccccgggagt
+     3001 ttcacttagc ggtgtctacc tctaaaggtc actaagcact ccgagcgcaa gcgaggagtg
+     3061 cgaccccctg cccggtagca acttcctcgg ggtccggcgc tacgccttcg gctgcgccgg
+     3121 acgcctcgga cccccgctcg tgctgacacg ctcgcgcgtg tcagaccact tcgggctcgc
+     3181 gggggtcgag ttatttacta aacagactcc gagtcgctct tggactcagg agctgtgaat
+     3241 cagtaacgaa agtgagtggg gccagacttc gccataaggc ctttaacttc tgggtccgta
+     3301 tgagagccgc cattttagct tcggccgcca ttttaggccc tcgcgggcct ccgtaggcgc
+     3361 gctttaatga cgtcgcaggc gccatcttgg ctgtgacgtt tcagtcacgt ggggagggaa
+     3421 cgcctaaacc cggaagcgtc cctggtcacg tgattgtgac gtcacggccg ccattttgtg
+     3481 cgtccgccat tttgtgactt ccttccgctt tttcaaaaaa aaagaggaag tgtgacgtag
+     3541 cggcgggggg gcggcgcgct tcgcgcgccg cccactaggg ggcgctgcgc gccccccccc
+     3601 gcgcatgcgc ggggaccccc cccccccgtt ctatatccac cgcgcatgcg cggccacgcc
+     3661 cccgccgcc
+//
+LOCUS       AB064598                3629 bp    DNA     linear   VRL 19-APR-2011
+DEFINITION  Torque teno virus 28 DNA, complete genome, isolate: CT43F.
+ACCESSION   AB064598
+VERSION     AB064598.1  GI:17827202
+KEYWORDS    .
+SOURCE      Torque teno virus 28
+  ORGANISM  Torque teno virus 28
+            Viruses; ssDNA viruses; Anelloviridae; Alphatorquevirus.
+REFERENCE   1
+  AUTHORS   Peng,Y.H., Nishizawa,T., Takahashi,M., Ishikawa,T., Yoshikawa,A.
+            and Okamoto,H.
+  TITLE     Analysis of the entire genomes of thirteen TT virus variants
+            classifiable into the fourth and fifth genetic groups, isolated
+            from viremic infants
+  JOURNAL   Arch. Virol. 147 (1), 21-41 (2002)
+  PUBMED    11855633
+REFERENCE   2  (bases 1 to 3629)
+  AUTHORS   Okamoto,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUL-2001) Contact:Hiroaki Okamoto Jichi Medical
+            School, Immunology Division and Division of Molecular Virology;
+            3311-1 Yakushiji, Minamikawachi-machi, Kawachi-gun, Tochigi
+            329-0498, Japan
+FEATURES             Location/Qualifiers
+     source          1..3629
+                     /organism="Torque teno virus 28"
+                     /mol_type="genomic DNA"
+                     /isolate="CT43F"
+                     /db_xref="taxon:687367"
+                     /country="China"
+                     /note="originally submitted as 'Torque teno virus';
+                     synonym: TT virus"
+     CDS             join(299..600,2411..2912)
+                     /note="unnamed protein product; ORF4"
+                     /codon_start=1
+                     /protein_id="BAB79319.1"
+                     /db_xref="GI:17827203"
+                     /translation="MSWRPPAYNLAQREEHWYKAILESHSTFCGCSDVVRHFCVLASR
+                     LATNPSVIPALPAPPEQQPRPGGDTEGAPGDPGDAGAGRYAEEDLEELFAAAAKDDMR
+                     RVQKTPNGNPVRGSHRKPRRRRLLFTQSTPKRAREQPVRRRDSPRRGDPKTATTQAAQ
+                     PAATAAASPQRGTQTSPGRRPPTPERSPLGPPPIIIQGDPIPDLLFPSTGKKRKFSKF
+                     DWETEAEIGRWLRRPMRFYPSDPPHYPWLPPKRDIPKICKVNFKINFTE"
+     CDS             join(299..600,2209..2740)
+                     /note="unnamed protein product; ORF3"
+                     /codon_start=1
+                     /protein_id="BAB79320.1"
+                     /db_xref="GI:17827204"
+                     /translation="MSWRPPAYNLAQREEHWYKAILESHSTFCGCSDVVRHFCVLASR
+                     LATNPSVIPALPAPPEQQPRPGGDTEGAPGDPGDAGAGRYAEEDLEELFAAAAKDDIP
+                     STTLAKNPHTNYPTPINTLQEYKSQIRNTSAHKQSSTPSTSDVDCLARQVLKECQNTN
+                     LLMTLFQQASGSKDPEWKPSTREPQKTKKKTPTIYSKHSKKSKRAASQKKRQPKKRRS
+                     KNSNYSSSSTCSDSSSESSERDSNKSWETSSDSGKESTGTPAYNNSRRSNSRPAVSQY
+                     W"
+     CDS             299..604
+                     /note="unnamed protein product; ORF2"
+                     /codon_start=1
+                     /protein_id="BAB79321.1"
+                     /db_xref="GI:17827205"
+                     /translation="MSWRPPAYNLAQREEHWYKAILESHSTFCGCSDVVRHFCVLASR
+                     LATNPSVIPALPAPPEQQPRPGGDTEGAPGDPGDAGAGRYAEEDLEELFAAAAKDDM"
+     CDS             487..2691
+                     /note="unnamed protein product; ACG for ATG as start
+                     codon; ORF1"
+                     /codon_start=1
+                     /transl_except="(pos:487..489,aa:Met)"
+                     /protein_id="BAB79322.1"
+                     /db_xref="GI:17827206"
+                     /translation="MAWWRYRRRPWRPWRRRGWAVRRRRSRRTFRRRGKRRYVSRRPR
+                     RRYRRRYRRGRRRRGRRRRHRQTIVLRQWQPDVMKKCFITGWLPLIICGSGNTQFNFV
+                     THEDDIPPPKASFGGNFTNLTFTLAGLYEQKLLHRNRWSKSNFDLDLARYLYTKIKLY
+                     RHPTVDYIVTYNRTGPFEINELSYMLTHPLAMLLNKHHIVVPSFKTRPKGKRSKTILI
+                     KPPKLMINKWYFAKDICKIGLFQIYATGLELTNPWLRSGTKSPIIGIYVLKNSVYNNN
+                     LTNLHGGGHEEGRKQVFNTLMPETAGKNWQYTYTPLMSKVYHQATKTNNEKLPTPYNW
+                     KNYSENYTQVKSKWDSLAQSGYKLVKDEYNAVYTTTATYPPEYTQRNYLSHDYGIYSP
+                     YFLTPRRYTREWYTAWEYVRYNPLSDKGLGNRIYAQWCSEASSSYSSTKSKCMLQDMP
+                     LYMLTYGYLDYVVKCTGNKSAWTDMRVCVRCPYTEPPLTGSDSNSGFVLLSESFMNGD
+                     MPWPSNFIPLKLWFKWFPMMFNQKQAVENIVSCGPFMPRDQEANSWDITIGYKSVFKW
+                     GGSPLPPQPIDDPCQKSTHELPDPDKYPPRIQIADPEHLGPQTIFHTFDIRRGLFSSA
+                     SLKRVSEYQPPDDPFSTGVGFKRPRMETQYAGATENQEEDAYYLLKALQKEQESSQSE
+                     EETAQEEEIQKQQLLKQLNLQRQQQRVLREGLKQVLGDVLRLRKGVHWDPRL"
+ORIGIN      
+        1 attttgtgca gcccgccaat ttctctttta aacagaccaa tcacgcacta cttcgtacac
+       61 ttcctggggt gtgtctaccc agcaaatata agccagaggg gtgacgaatg gtagagtttt
+      121 ttctgcccgt ccgcggcgag gacgcgagcg aagcgagcgg ccgagcgtcc cgagggcggg
+      181 tgccggaggt gagtttacac accgaagtca aggggcaatt cgggctcggg actggccggg
+      241 ctatgggcaa ggctcttaaa aaattccccc gctctgttct ccgccaggac attaaaacat
+      301 gtcgtggaga ccgccggcat acaaccttgc ccagagagaa gagcactggt acaaagcaat
+      361 tcttgagtcg cactctactt tttgcggctg ctctgacgtt gttaggcatt tctgtgtcct
+      421 tgcttctcgc cttgctacaa atccttccgt gatccctgcc ctaccggcac cccctgagca
+      481 gcaaccacgg cctggtggag atacagaagg cgcccctggc gaccctggag acgccggggc
+      541 tgggcggtac gcagaagaag atctagaaga acttttcgcc gccgcggcaa aagacgatat
+      601 gtgagtagaa ggccgcgccg ccgatacagg cgcagataca gacggggcag acgtagaagg
+      661 ggacgcagac gcaggcacag acagactatt gtactaagac aatggcagcc ggacgttatg
+      721 aaaaagtgct ttattactgg gtggctacct ctaataatct gtggatctgg aaacacccag
+      781 tttaactttg tgactcatga ggacgacata ccacctccaa aggcctcctt tggaggaaac
+      841 tttactaacc tcaccttcac cctagcggga ctatatgaac aaaaactgct ccacagaaac
+      901 aggtggtcca agtccaactt tgacctagac ctagccagat acctctacac aaaaattaaa
+      961 ctatacagac accccactgt agactacata gtcacctaca acagaacagg cccattcgag
+     1021 ataaatgaac tcagctacat gctcacacac cctctcgcca tgctcctaaa caagcaccac
+     1081 atagtagttc caagctttaa aacaaggccc aaaggaaaga gatccaaaac aatacttatt
+     1141 aagcctccaa aactcatgat aaacaagtgg tactttgcta aagacatctg caaaataggc
+     1201 ctcttccaaa tctatgccac aggcctagaa ctcaccaacc catggctcag atcaggcacc
+     1261 aagagcccca tcataggcat atatgtcctt aaaaactctg tgtataacaa caacttaaca
+     1321 aacctacatg gagggggcca cgaagaaggc agaaaacaag tttttaacac tctcatgcct
+     1381 gaaactgcag gcaaaaactg gcaatacaca tacactcctt taatgagcaa agtataccac
+     1441 caggcaacca aaacaaacaa tgaaaaacta cccacacctt ataactggaa aaactacagt
+     1501 gaaaactata cacaagtaaa atctaagtgg gactcactag cacaatcagg atacaaacta
+     1561 gtaaaagatg aatacaatgc agtctataca accactgcca cataccctcc agaatacaca
+     1621 caaagaaact acctaagtca tgactatggc atttacagcc catacttttt aacaccgcga
+     1681 agatacacaa gagaatggta cacagcctgg gagtatgtaa gatacaaccc actatcagac
+     1741 aaaggtctag gtaacagaat ctatgcacag tggtgcagcg aagcatcctc ctcttatagc
+     1801 tccaccaaaa gcaaatgcat gctacaagac atgccactat acatgctaac atatggctac
+     1861 ctagactatg tagtaaaatg cacaggcaat aaatcagcct ggacagacat gagagtctgt
+     1921 gtaagatgtc catacacaga acccccacta acagggtcag acagtaactc cggctttgta
+     1981 ctattatcag aaagcttcat gaacggagac atgccctggc ccagcaactt cataccgttg
+     2041 aagttgtggt ttaagtggtt tcctatgatg tttaaccaaa aacaggcagt tgagaacata
+     2101 gtttcctgtg gccccttcat gcccagagat caggaagcca actcttggga cataaccata
+     2161 ggttacaagt cagtttttaa atgggggggt tcccctctgc ctccacagcc catcgacgac
+     2221 ccttgccaaa aatccacaca cgaactaccc gaccccgata aataccctcc aagaatacaa
+     2281 atcgcagatc cggaacacct cggcccacaa acaatcttcc acaccttcga catcagacgt
+     2341 ggactgttta gctcggcaag tcttaaaaga gtgtcagaat accaacctcc tgatgaccct
+     2401 ttttcaacag gcgtcgggtt caaaagaccc cgaatggaaa cccagtacgc gggagccaca
+     2461 gaaaaccaag aagaagacgc ctactattta ctcaaagcac tccaaaaaga gcaagagagc
+     2521 agccagtcag aagaagagac agcccaagaa gaggagatcc aaaaacagca actactcaag
+     2581 cagctcaacc tgcagcgaca gcagcagcga gtcctcagag agggactcaa acaagtcctg
+     2641 ggagacgtcc tccgactccg gaaaggagtc cactgggacc cccgcctata ataattcaag
+     2701 gagatccaat tccagacctg ctgtttccca gtactggtaa aaaaagaaaa ttctccaaat
+     2761 tcgactggga aacggaggcg gagatcgggc gctggctcag gcggcccatg cgcttctatc
+     2821 cctcagaccc ccctcactac ccgtggctac cccccaagcg agatatccca aaaatatgta
+     2881 aagtaaactt caaaataaat ttcacagagt aactactcga ggccctcctc tgttcactta
+     2941 gcggtgtcta cctctaaaag tcaccaagca ctccgagcga agcgaggagt gcgaccctcc
+     3001 tgcccggtag caacttcctc ggggtccggc gctacgcgct tcgcgctgcg ccggacgcct
+     3061 cggacccccg ctcgtgctga cacgctcgcg cgtgtcagac cacttcgggc tcgcgggggt
+     3121 cggggggctt tactaacaga ctccgagtcg ctcttggact ctgggggggc atacagcaac
+     3181 gaaagtgagt ggggccagac ttcgccataa ggcctttaac ttccgggtgc gtgtgggggc
+     3241 cgccatttta gcttcgaccg ccattttagg ccctagcggg cctccgtagg cgcgttttaa
+     3301 tgacgtcaag gcagccattt tgactgtgac gtcaaagtca cgtggggagg gcggcgtgta
+     3361 acccggaagt catcctcgtc acgtgacctg acgtcacggc cgccattttg tgctgtccgc
+     3421 catcttgtga cttccttccg ctttttcaaa aaaaaagagg aagtatgacg tagcggcggg
+     3481 ggggcggcgc gcttcgcgcg ccgcccacta gggggcgctg cgcgcccccc ccccgcgcat
+     3541 gcgcgggtcc cccccccggg gggggtccgc ccccccggcc cccccccgtg caaagtccac
+     3601 cgcgcatgcg cgaccacgcc cccgccgcc
+//
+LOCUS       AB064601                3626 bp    DNA     linear   VRL 19-APR-2011
+DEFINITION  Torque teno virus DNA, complete genome, isolate: JT14F.
+ACCESSION   AB064601
+VERSION     AB064601.1  GI:17827223
+KEYWORDS    .
+SOURCE      Torque teno virus (TTV)
+  ORGANISM  Torque teno virus
+            Viruses; ssDNA viruses; Anelloviridae; unclassified Anelloviridae.
+REFERENCE   1
+  AUTHORS   Peng,Y.H., Nishizawa,T., Takahashi,M., Ishikawa,T., Yoshikawa,A.
+            and Okamoto,H.
+  TITLE     Analysis of the entire genomes of thirteen TT virus variants
+            classifiable into the fourth and fifth genetic groups, isolated
+            from viremic infants
+  JOURNAL   Arch. Virol. 147 (1), 21-41 (2002)
+  PUBMED    11855633
+REFERENCE   2  (bases 1 to 3626)
+  AUTHORS   Okamoto,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUL-2001) Contact:Hiroaki Okamoto Jichi Medical
+            School, Immunology Division and Division of Molecular Virology;
+            3311-1 Yakushiji, Minamikawachi-machi, Kawachi-gun, Tochigi
+            329-0498, Japan
+FEATURES             Location/Qualifiers
+     source          1..3626
+                     /organism="Torque teno virus"
+                     /mol_type="genomic DNA"
+                     /isolate="JT14F"
+                     /db_xref="taxon:68887"
+                     /country="Japan"
+                     /note="synonym: TT virus"
+     gene            join(298..596,2413..2917)
+                     /gene="ORF4"
+     CDS             join(298..596,2413..2917)
+                     /gene="ORF4"
+                     /codon_start=1
+                     /product="ORF4"
+                     /protein_id="BAB79331.1"
+                     /db_xref="GI:17827224"
+                     /translation="MSWAPPLFNSKQREDQWYQSIIFSHNTFCGCGDLVRHFCVVASR
+                     FTEPPVVPALPAPVPAPPRRGTEEEGGDRGEDAADRGPYAEEELEDLFAAAREDDMRR
+                     LQKTPTGNPVQRNPRNPRRRRLHFTQSTPKRAREQQLGRRTPTRRARDPKNTTPQAAP
+                     TPAAATANPQEGNQTPLRRRPPTQKRSPLQPRPIIIPAEEIPDLLFPNTGKKKKFSPF
+                     DWETEQQLACWMRRPMRFYPTDPPFYPWLPPKRDIPNICKVNFKINYSE"
+     gene            join(298..596,2211..2745)
+                     /gene="ORF3"
+     CDS             join(298..596,2211..2745)
+                     /gene="ORF3"
+                     /codon_start=1
+                     /product="ORF3"
+                     /protein_id="BAB79332.1"
+                     /db_xref="GI:17827225"
+                     /translation="MSWAPPLFNSKQREDQWYQSIIFSHNTFCGCGDLVRHFCVVASR
+                     FTEPPVVPALPAPVPAPPRRGTEEEGGDRGEDAADRGPYAEEELEDLFAAAREDDIPS
+                     TTPAKKTPTKYPTPINTLEEYKYQTRRYSDHPQSSTHGTSDVDCLARRVLKECQNTNR
+                     LMTLFQQASSSKDPDWKPSTKEPKKPQKKTPTLYSKHSKKSKRAAARKKNSHKKSKRS
+                     KKHNSSSSSNSSSSNSESSRGESDTSSETSSDSEKESTPTQTYYNTSRGNPRPAFPQY
+                     W"
+     gene            298..600
+                     /gene="ORF2"
+     CDS             298..600
+                     /gene="ORF2"
+                     /codon_start=1
+                     /product="ORF2"
+                     /protein_id="BAB79333.1"
+                     /db_xref="GI:17827226"
+                     /translation="MSWAPPLFNSKQREDQWYQSIIFSHNTFCGCGDLVRHFCVVASR
+                     FTEPPVVPALPAPVPAPPRRGTEEEGGDRGEDAADRGPYAEEELEDLFAAAREDDM"
+     gene            483..2699
+                     /gene="ORF1"
+     CDS             483..2699
+                     /gene="ORF1"
+                     /note="ACG for ATG as start codon"
+                     /codon_start=1
+                     /transl_except="(pos:483..485,aa:Met)"
+                     /product="ORF1"
+                     /protein_id="BAB79334.1"
+                     /db_xref="GI:17827227"
+                     /translation="MAWYRRRRWRPWRRRRRPWTLRRRRARRFVRRRPRRRYVSRWRR
+                     RRYRRRLRRGRRRRGRRRRKETIIVRQWQPDVMRNCYITGFLPLIVCGSGNTQFNFIT
+                     HENDIPPRGASYGGNLTNITFTLAALYDQYLLHRNRWSRSNFDLDLARYINTKLKLYR
+                     HDSVDYIVTYNRTGPFEVNPLTYMHTHPLLMLVNRHHIVVPSLKTKPRGKRYIKVKIK
+                     PPKLMLNKWYFAKDICPLGLFQLYATGLELRNPWIREGTNSPIVGFYVLKPSLYNGAM
+                     SNLADTEHLNQRQTLFNKLLPTQNQKDEWQYTYNKPMQKIYYEAANKQDSGFKNTTYN
+                     WTNYKTNYQKVQSQWQTVAQQNYNQVYNEFKEVYPLTATWPPQWNARQYMSHDFGIYS
+                     PYFLSPARFTDYWHSAYTYVRYNPMSDKGIGNIICIQWCSEKNSEFNETKNKCILRDM
+                     PLYMLTYGYLDYTTKCTGSNSIWTDARVAIRCPYTDPPLSNPTNKNTLYIPLSTSFMQ
+                     GDMPWPTTNIPLKMWFKWYPMIMHQRACLETIVSCGPFMPRDQTASSWDITIAYRAFF
+                     KWGGNPLPPQPIDDPCQKDTHEIPDPDKHPRGIQISDPKVLGPPTVFHTWDIRRGLFS
+                     STSLKRVSEYQPPDDPFSTGVVFKRPRLETQYKGTQETPEEDAYTLLKALQKEQESSS
+                     SEEELPQEEQEIQKTQLLKQLQLQQQQQRILKRGIRHLFGDVLRLRKGVHSNPDLL"
+ORIGIN      
+        1 attttgtgca gcccgccaat ttctctttaa acagaccaat cagctactac tacgtacact
+       61 tcctggggtg tgtcctgcca ctaaatataa gcagacccgg tgacgaatgg tagagttttc
+      121 tatgcccgtc cgcggcgagg acgcgagcgc agcgagcggc cgagcgaccc gtgggcggga
+      181 gccgaaggtg agtttacaca ccgcagtcaa ggggcaattc gggctcggga ctggccgggc
+      241 tatgggcaag aaacttaaaa taataccccg ctgtgtactg tcacaggaca acagaaaatg
+      301 tcgtgggctc cgccgctatt caactcgaaa cagagagagg accagtggta ccagtcaatt
+      361 attttcagcc ataatacttt ttgcggctgc ggtgaccttg ttaggcattt ttgcgtcgtt
+      421 gcttctcgct ttactgagcc tcctgtagtg ccggccctac cggcaccggt accggcaccg
+      481 ccacggcgtg gtacagaaga agaaggtgga gaccgtggag aagacgccgc agaccgtgga
+      541 ccctacgcag aagaagagct agaagatttg ttcgccgccg cccgagaaga cgatatgtga
+      601 gtagatggcg gcgccgccga tacaggcgca gactaagacg ggggagacga cgaaggggac
+      661 gcagacgcag aaaagaaact ataatagtga gacagtggca gccagatgta atgagaaact
+      721 gttatattac tggcttccta cctctcatag tctgtggctc aggcaacact caatttaact
+      781 ttatcacaca tgagaatgac atacccccaa ggggagcctc ctatgggggc aacctcacca
+      841 acataacctt caccctagcg gcactatatg accagtactt gctacacaga aacaggtggt
+      901 ccaggtcaaa ctttgaccta gacctagcca gatacattaa cacaaaacta aaactataca
+      961 gacatgactc agtagactac atagtaacct acaacagaac aggtcccttt gaggtgaatc
+     1021 cactaacata catgcacact caccccctac tcatgctcgt gaacaggcac cacatagtgg
+     1081 tgcccagttt aaaaacaaaa cccagaggca aaagatacat aaaagtaaaa ataaagcctc
+     1141 caaaactaat gctaaacaag tggtactttg cgaaagacat ctgcccacta ggcctcttcc
+     1201 agctatatgc taccggccta gaactcagaa acccctggat cagagagggc acaaacagcc
+     1261 ccatagtagg gttttatgtt ttaaaaccct cactatataa tggagccatg tcaaacttag
+     1321 cagacacaga acatttaaac caaagacaaa ccctatttaa caaactactt ccaacacaaa
+     1381 accaaaaaga cgaatggcaa tacacataca acaaaccaat gcaaaaaata tattatgaag
+     1441 cagcaaacaa gcaagatagt ggctttaaaa atacaacata taactggaca aactacaaaa
+     1501 ctaactacca aaaagtacaa tcacaatggc aaactgtagc acaacaaaac tacaaccaag
+     1561 tatacaatga atttaaagag gtatacccac taacagctac atggccaccg caatggaatg
+     1621 ctagacaata catgtcacac gactttggca tatacagccc atactttttg tcacctgcaa
+     1681 gatttacaga ctactggcac agtgcataca cctatgtcag atacaacccc atgtcagaca
+     1741 aaggcatagg taacataatc tgcatacaat ggtgcagtga aaaaaacagt gaatttaatg
+     1801 agactaaaaa caagtgcata ctaagagaca tgccacttta catgctaaca tatggctacc
+     1861 tagactatac cacaaaatgc acaggctcca actccatctg gacagacgcc agagtagcca
+     1921 tcagatgtcc atacacagat cccccactat caaatccaac taacaaaaac acactttata
+     1981 ttccactatc tacatctttc atgcaaggag acatgccctg gccaaccaca aacattccgt
+     2041 taaagatgtg gtttaagtgg tatcccatga tcatgcacca gagggcctgt ttagaaacca
+     2101 tagtttcctg tggaccgttt atgcccagag accaaaccgc aagcagttgg gacataacta
+     2161 ttgcatacag agcctttttt aaatggggtg gcaatcctct gcctccacag cccatcgacg
+     2221 acccctgcca aaaagacacc cacgaaatac ccgaccccga taaacaccct agaggaatac
+     2281 aaatatcaga cccgaaggta ctcggaccac ccacagtctt ccacacatgg gacatcagac
+     2341 gtggactgtt tagctcgacg agtcttaaaa gagtgtcaga ataccaaccg cctgatgacc
+     2401 ctttttcaac aggcgtcgtc ttcaaaagac cccgactgga aacccagtac aaaggaaccc
+     2461 aagaaacccc agaagaagac gcctacactt tactcaaagc actccaaaaa gagcaagaga
+     2521 gcagcagctc ggaagaagaa ctcccacaag aagagcaaga gatccaaaaa acacaactcc
+     2581 tcaagcagct ccaactccag cagcagcaac agcgaatcct caagagggga atcagacacc
+     2641 tcttcggaga cgtcctccga ctcagaaaag gagtccactc caacccagac ctattataat
+     2701 accagcagag gaaatcccag acctgctttt ccccaatact ggtaaaaaaa aaaaattctc
+     2761 tccattcgat tgggagacag agcagcagct cgcatgctgg atgcggcgcc ccatgcgctt
+     2821 ctatccaaca gaccccccgt tctacccctg gctacccccc aagcgagata tccccaatat
+     2881 atgtaaagtc aacttcaaaa taaattactc agagtaactg ttcgaggccc cgggtgtttc
+     2941 acttagcggt gtctacctct aaaggtcact aagcactccg agcgaagcga ggagtgcgac
+     3001 cctggggcaa cttcctcggg gtccggcgct acgcgcttcg cgctgcgccg gacgcctcgg
+     3061 acccccgctc gtgctgacgc gctcgcgcgc gtcagaccac ttcgggctcg cgggggtcgg
+     3121 ggggctttac taacagactc cgagtcgctc ttggactctg agggggcgta cagcaacgaa
+     3181 agtgagtggg gccagacttc gccataaggc ctttaacttc cgggtgcgta tggaggccgc
+     3241 cattttagct tcggccgcca ttttaggccc tcgcgggcct ccgtaggcgc gttttaatga
+     3301 cgtcacggca gccattttgg ttgtgacgtc aaagtcacgt ggggagggcg gcgtgtaacc
+     3361 cggaagtcat cctcgtcacg tgacctgacg tcacggccgc cattttgtgc tgcccgccat
+     3421 cttgtgactt ccttccgctt tttcaaaaaa aaagaggaag tgtgacgtag cggcgggggg
+     3481 gcggcgcgct tcgcgcgccg cccactaggg ggcgttgcgc gccccccccc cgcgcatgcg
+     3541 cggggccccc ccccgggggg gctccgcccc cccggccccc ccccgtgcta agtccaccgc
+     3601 gcatgcgcgg ccacgccccc gccgcc
+//
+LOCUS       AB064597                3570 bp    DNA     linear   VRL 19-APR-2011
+DEFINITION  Torque teno virus DNA, complete genome, isolate: CT30F.
+ACCESSION   AB064597
+VERSION     AB064597.1  GI:17827196
+KEYWORDS    .
+SOURCE      Torque teno virus (TTV)
+  ORGANISM  Torque teno virus
+            Viruses; ssDNA viruses; Anelloviridae; unclassified Anelloviridae.
+REFERENCE   1
+  AUTHORS   Peng,Y.H., Nishizawa,T., Takahashi,M., Ishikawa,T., Yoshikawa,A.
+            and Okamoto,H.
+  TITLE     Analysis of the entire genomes of thirteen TT virus variants
+            classifiable into the fourth and fifth genetic groups, isolated
+            from viremic infants
+  JOURNAL   Arch. Virol. 147 (1), 21-41 (2002)
+  PUBMED    11855633
+REFERENCE   2  (bases 1 to 3570)
+  AUTHORS   Okamoto,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUL-2001) Contact:Hiroaki Okamoto Jichi Medical
+            School, Immunology Division and Division of Molecular Virology;
+            3311-1 Yakushiji, Minamikawachi-machi, Kawachi-gun, Tochigi
+            329-0498, Japan
+FEATURES             Location/Qualifiers
+     source          1..3570
+                     /organism="Torque teno virus"
+                     /mol_type="genomic DNA"
+                     /isolate="CT30F"
+                     /db_xref="taxon:68887"
+                     /country="China"
+                     /note="synonym: TT virus"
+     gene            join(299..687,2339..2831)
+                     /gene="ORF4"
+     CDS             join(299..687,2339..2831)
+                     /gene="ORF4"
+                     /codon_start=1
+                     /product="ORF4"
+                     /protein_id="BAB79315.1"
+                     /db_xref="GI:17827197"
+                     /translation="MPWRPPVHSVQGREDQWFASFFHGHASFCGCGDAVGHLNSIAPR
+                     FPRAGPPRPPPGLEQPNPPQQGPAGPGGPPAILALPAPPAEPDDPQPRRGGGDGGAAA
+                     GAAGDRGDRDYDEEELDELFRAAAEDDLSPIKAKQARLGLQRRKPRAKRMLFSPQSTR
+                     GRRDPRRRRTSTPRKSPERGATPPAPAPETPPASPQTRAQARLYRHPPTPPGSPLEPR
+                     AHIEPPPYIPDLLFPNTGKKKKFSPFDWETEAQLAGIFKRPMRFYPSDTPHYPWLPPK
+                     RDIPKICNINFKIKLQE"
+     gene            join(299..687,2161..2659)
+                     /gene="ORF3"
+     CDS             join(299..687,2161..2659)
+                     /gene="ORF3"
+                     /codon_start=1
+                     /product="ORF3"
+                     /protein_id="BAB79316.1"
+                     /db_xref="GI:17827198"
+                     /translation="MPWRPPVHSVQGREDQWFASFFHGHASFCGCGDAVGHLNSIAPR
+                     FPRAGPPRPPPGLEQPNPPQQGPAGPGGPPAILALPAPPAEPDDPQPRRGGGDGGAAA
+                     GAAGDRGDRDYDEEELDELFRAAAEDDLEPTRFPTPISTLASYKCRTRNCSDRGQCST
+                     SGTSDVGSLAKEVLKECQNTHRMMNLLRQVSHQSETSSTRPSEEKTQSKKNAILSSKH
+                     SRKKRPQKKKNQHPKKKPRKRSYSTSSSSRDATSESSDEGSSSSLQTSSDSARESTGT
+                     PSSHRAPTLHTRPTFSQYW"
+     gene            299..691
+                     /gene="ORF2"
+     CDS             299..691
+                     /gene="ORF2"
+                     /codon_start=1
+                     /product="ORF2"
+                     /protein_id="BAB79317.1"
+                     /db_xref="GI:17827199"
+                     /translation="MPWRPPVHSVQGREDQWFASFFHGHASFCGCGDAVGHLNSIAPR
+                     FPRAGPPRPPPGLEQPNPPQQGPAGPGGPPAILALPAPPAEPDDPQPRRGGGDGGAAA
+                     GAAGDRGDRDYDEEELDELFRAAAEDDL"
+     gene            571..2613
+                     /gene="ORF1"
+     CDS             571..2613
+                     /gene="ORF1"
+                     /note="ACG for ATG as start codon"
+                     /codon_start=1
+                     /transl_except="(pos:571..573,aa:Met)"
+                     /product="ORF1"
+                     /protein_id="BAB79318.1"
+                     /db_xref="GI:17827200"
+                     /translation="MAWWWGRWRRRWRRRRPWRPRLRRRRARRAFPRRRRRRFVSRRW
+                     RRPYRRRRRRGRRRRRRRRRHKPTLVLRQWQPDVIRHCKITGRMPLIICGKGSTQFNY
+                     ITHADDITPRGASYGGNFTNMTFSLEAIYEQFLYHRNRWSASNHDLELCRYKGTTLKL
+                     YRHPDVDYIVTYSRTGPFEISHMTYLSTHPLLMLLNKHHIVVPSLKTKPRGRKAIKVR
+                     IRPPKLMNNKWYFTRDFCNIGLFQLWATGLELRNPWLRMSTLSPCIGFNVLKNSIYTN
+                     LSNLPQHREDRLNIINNTLHPHDITGPNNKKWQYTYTKLMAPIYYSANRASTYDLLRE
+                     YGLYSPYYLNPTRINLDWMTPYTHVRYNPLVDKGFGNRIYIQWCSEADVSYNRTKSKC
+                     LLQDMPLFFMCYGYIDWAIKNTGVSSLARDARICIRCPYTEPQLVGSTEDIGFVPITE
+                     TFMRGDMPVLAPYIPLSWFCKWYPNIAHQKEVLEAIISCSPFMPRDQGMNGWDITIGY
+                     KMDFLWGGSPLPSQPIDDPCQQGTHPIPDPDKHPRLLQVSNPKLLGPRTVFHKWDIRR
+                     GQFSKRSIKRVSEYSSDDESLAPGLPSKRNKLDSAFRGENPEQKECYSLLKALEEEET
+                     PEEEEPAPQEKAQKEELLHQLQLQRRHQRVLRRGLKLVFTDILRLRQGVHWNPELT"
+ORIGIN      
+        1 attttgtgca gcccgccaat tctcgttcaa acaggccaat caggaggctc tacgtacact
+       61 tcctggggtg tgtcttcgaa gagtatataa gcagaggcgg tgacgaatgg tagagttttt
+      121 cctggcccgt ccgcggcgag agcgcgagcg gagcgagcga tcgagcgtcc cgtgggcggg
+      181 tgccgtaggt gagtttacac accgcagtca aggggcaatt cgggctcggg actggccggg
+      241 ctatgggcaa gattcttaaa aaattccccc gatccctctg tcgccaggac ataaaaacat
+      301 gccgtggaga ccgccggtgc atagtgtcca ggggcgagag gatcagtggt tcgcgagctt
+      361 ttttcacggc cacgcttcat tttgcggttg cggtgacgct gttggccatc ttaatagcat
+      421 tgctcctcgc tttcctcgcg ccggtccacc aaggccccct ccggggctag agcagcctaa
+      481 ccccccgcag cagggcccgg ccgggcccgg agggccgccc gccatcttgg cgctgccggc
+      541 tccgcccgcg gagcctgacg acccgcagcc acggcgtggt ggtggggacg gtggcgccgc
+      601 cgctggcgcc gcaggcgacc gtggagaccg agactacgac gaagaagagc tagacgagct
+      661 tttccgcgcc gccgccgaag acgatttgta agtaggagat ggcgccggcc ttacaggcgc
+      721 aggaggagac gcgggcgacg cagacgcaga cgcagacgca gacataagcc caccctagta
+      781 ctcagacagt ggcaacctga cgttatcaga cactgtaaga taacaggacg gatgcccctc
+      841 attatctgtg gaaaggggtc cacccagttc aactacatca cccacgcgga cgacatcacc
+      901 cccaggggag cctcctacgg gggcaacttc acaaacatga ctttctccct ggaggcaata
+      961 tacgaacagt ttctgtacca cagaaacagg tggtcagcct ccaaccacga cctcgaactc
+     1021 tgcagataca agggtaccac cctaaaactg tacaggcacc cagatgtaga ctacatagtc
+     1081 acctacagca gaacgggacc ctttgagatc agccacatga cctacctcag cactcacccc
+     1141 cttctcatgc tgctaaacaa acaccacata gtggtgccca gcctaaagac taagcccagg
+     1201 ggcagaaagg ccataaaagt cagaataaga ccccccaaac tcatgaacaa caagtggtac
+     1261 ttcaccagag acttctgtaa cataggcctc ttccagctct gggccacagg cttagaactc
+     1321 agaaacccct ggctcagaat gagcaccctg agcccctgca taggcttcaa tgtccttaaa
+     1381 aacagcattt acacaaacct cagcaaccta cctcagcaca gagaagacag acttaacatt
+     1441 attaacaaca cattacaccc acatgacata acaggaccaa acaataaaaa atggcagtac
+     1501 acatatacca aactcatggc ccccatttac tattcagcaa acagggccag cacctatgac
+     1561 ttactacgag agtatggcct ctacagtcca tactacctaa accccacaag gataaacctt
+     1621 gactggatga ccccctacac acacgtcagg tacaatccac tagtagacaa gggcttcgga
+     1681 aacagaatat acatacagtg gtgctcagag gcagatgtaa gctacaacag gactaaatcc
+     1741 aagtgtctct tacaagacat gcccctgttt ttcatgtgct atggctacat agactgggca
+     1801 attaaaaaca caggggtctc ctcactagcg agagacgcca gaatctgcat caggtgtccc
+     1861 tacacagagc cacagctggt gggctccaca gaagacatag ggttcgtacc catcacagag
+     1921 accttcatga ggggcgacat gccggtactt gcaccataca taccgttgag ctggttttgc
+     1981 aagtggtatc ccaacatagc tcaccagaag gaagtacttg aggcaatcat ttcctgcagc
+     2041 cccttcatgc cccgtgacca gggcatgaac ggttgggata ttacaatagg ttacaaaatg
+     2101 gacttcttat ggggcggttc ccctctcccc tcacagccaa tcgacgaccc ctgccagcag
+     2161 ggaacccacc cgattcccga ccccgataag caccctcgcc tcctacaagt gtcgaacccg
+     2221 aaactgctcg gaccgaggac agtgttccac aagtgggaca tcagacgtgg gcagtttagc
+     2281 aaaagaagta ttaaaagagt gtcagaatac tcatcggatg atgaatctct tgcgccaggt
+     2341 ctcccatcaa agcgaaacaa gctcgactcg gccttcagag gagaaaaccc agagcaaaaa
+     2401 gaatgctatt ctctcctcaa agcactcgag gaagaagaga ccccagaaga agaagaacca
+     2461 gcaccccaag aaaaagccca gaaagaggag ctactccacc agctccagct ccagagacgc
+     2521 caccagcgag tcctcagacg agggctcaag ctcgtcttta cagacatcct ccgactccgc
+     2581 cagggagtcc actggaaccc cgagctcaca tagagccccc accttacata ccagacctac
+     2641 tttttcccaa tactggtaaa aaaaaaaaat tctctccctt cgactgggaa acggaggccc
+     2701 agctagcagg gatattcaag cgtcctatgc gcttctatcc ctcagacacc cctcactacc
+     2761 cgtggttacc ccccaagcgc gatatcccga aaatatgtaa cataaacttc aaaataaagc
+     2821 tgcaagagtg agtgattcga ggccctcctc tgttcactta gcggtgtcta cctcttaaag
+     2881 tcaccaagca ctccgagcgt cagcgaggag tgcgaccctc caccaagggg caacttcctc
+     2941 ggggtccggc gctacgcgct tcgcgctgcg ccggacgcct cggacccccc cccgacccga
+     3001 atcgctcgcg cgattcggac ctgcggcctc ggggggggtc gggggcttta ctaaacagac
+     3061 tccgagttgc cactggactc aggagctgtg aatcagtaac gaaagtgagt ggggccagac
+     3121 ttcgccatag ggcctttaac ttggggtcgt ctgtcggtgg cttccgggtc cgcctgggcg
+     3181 ccgccatttt agctttagac gccattttag gccctcgcgg gcacccgtag gcgcgtttta
+     3241 atgacgtcac ggcagccatt ttgtcgtgac gtttgagaca cgtgatgggg gcgtgcctaa
+     3301 acccggaagc atccctggtc acgtgactct gacgtcacgg cggccatttt gtgctgtccg
+     3361 ccatcttgtg acttccttcc gctttttcaa aaaaaaagag gaagtatgac agtagcggcg
+     3421 ggggggcggc cgcgttcgcg cgccgcccac cagggggtgc tgcgcgcccc cccccgcgca
+     3481 tgcgcggggc ccccccccgg gggggctccg cccccccggc ccccccccgt gctaaaccca
+     3541 ccgcgcatgc gcgaccacgc ccccgccgcc
+//
