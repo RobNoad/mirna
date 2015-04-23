@@ -175,7 +175,7 @@ for seq in SeqIO.parse(seqs_input, "genbank"):
 
 									sf = srnaout.strip().split(' (')								
 									#print maximum_fold_energy, ":", float(sf[1].strip(')').strip())
-									if float(sf[1].strip(')').strip()) <= maximum_fold_energy and box_u_re.search(rna_seq[+stem.end(0)-4:stem.end(0)+6]):
+									if float(sf[1].strip(')').strip()) <= maximum_fold_energy:
 										hp.append(srna_seq+':'+sf[0].strip()+':'+sf[1].strip(')'))
 										found_miRNA= True
 
